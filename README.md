@@ -1,4 +1,4 @@
-# database
+# Database
 Db related repo
 
 ## Mysql 
