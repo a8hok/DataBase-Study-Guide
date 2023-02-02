@@ -5,6 +5,7 @@ Db related repo
 - [https://www.singlestore.com/blog/mariadb-vs-mysql/](https://www.singlestore.com/blog/mariadb-vs-mysql/)
 
 ## Postgresql
+- [https://dbconvert.com/blog/mysql-vs-postgresql/](https://dbconvert.com/blog/mysql-vs-postgresql/)<br>
 
 ## Sql
 - [https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science](https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science)<br>
