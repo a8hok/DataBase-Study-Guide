@@ -20,3 +20,6 @@ Db related repo
 
 ## SQL vs NoSQL
 - [https://awstip.com/sql-nosql-whats-your-take-1be662f067ab](https://awstip.com/sql-nosql-whats-your-take-1be662f067ab)<br>
+
+## SQL tips and tricks
+- [https://hackernoon.com/16-sql-techniques-every-beginner-needs-to-know?source=rss](https://hackernoon.com/16-sql-techniques-every-beginner-needs-to-know?source=rss)<br>
