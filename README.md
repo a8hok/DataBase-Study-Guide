@@ -13,6 +13,7 @@ Db related repo
 - [https://systemweakness.com/learning-web-sec-day-1-1a22ad4b2041](https://systemweakness.com/learning-web-sec-day-1-1a22ad4b2041)<br>
 
 ## MongoDB
+- [https://learnxinyminutes.com/docs/mongodb/](https://learnxinyminutes.com/docs/mongodb/)<br>
 
 ## Youtube
 - [https://www.youtube.com/@GeekCoders](https://www.youtube.com/@GeekCoders)<br>
