@@ -1,5 +1,16 @@
-# Database
-Db related repo
+# Database Interview Preparation
+
+Table of Contents
+=================
+
+* [Database](#database)
+   * [Mysql](#mysql)
+   * [Postgresql](#postgresql)
+   * [Sql](#sql)
+   * [MongoDB](#mongodb)
+   * [Youtube](#youtube)
+   * [SQL vs NoSQL](#sql-vs-nosql)
+   * [SQL tips and tricks](#sql-tips-and-tricks)
 
 ## Mysql 
 - [https://www.singlestore.com/blog/mariadb-vs-mysql/](https://www.singlestore.com/blog/mariadb-vs-mysql/)
