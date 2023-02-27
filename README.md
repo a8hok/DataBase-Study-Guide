@@ -2,8 +2,6 @@
 
 Table of Contents
 =================
-
-* [Database](#database)
    * [Mysql](#mysql)
    * [Postgresql](#postgresql)
    * [Sql](#sql)
