@@ -31,6 +31,7 @@ Table of Contents
 
   ## SQL vs NoSQL
   - [https://awstip.com/sql-nosql-whats-your-take-1be662f067ab](https://awstip.com/sql-nosql-whats-your-take-1be662f067ab)<br>
+  - [https://www.sqlshack.com/postgresql-vs-mysql-understanding-their-differences/](https://www.sqlshack.com/postgresql-vs-mysql-understanding-their-differences/)<br>
 
   ## SQL tips and tricks
   - [https://hackernoon.com/16-sql-techniques-every-beginner-needs-to-know?source=rss](https://hackernoon.com/16-sql-techniques-every-beginner-needs-to-know?source=rss)<br>
