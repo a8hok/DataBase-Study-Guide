@@ -11,7 +11,8 @@ Table of Contents
    * [SQL tips and tricks](#sql-tips-and-tricks)
 
   ## Mysql 
-  - [https://www.singlestore.com/blog/mariadb-vs-mysql/](https://www.singlestore.com/blog/mariadb-vs-mysql/)
+  - [https://www.singlestore.com/blog/mariadb-vs-mysql/](https://www.singlestore.com/blog/mariadb-vs-mysql/)<br>
+  - [https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)<br>
 
   ## Postgresql
   - [https://dbconvert.com/blog/mysql-vs-postgresql/](https://dbconvert.com/blog/mysql-vs-postgresql/)<br>
