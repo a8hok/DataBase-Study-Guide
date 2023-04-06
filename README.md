@@ -38,3 +38,6 @@ Table of Contents
 
   ## SQL tips and tricks
   - [https://hackernoon.com/16-sql-techniques-every-beginner-needs-to-know?source=rss](https://hackernoon.com/16-sql-techniques-every-beginner-needs-to-know?source=rss)<br>
+
+  ## Database inteview questions
+  - [https://www.freshersnow.com/sql-interview-questions-and-answers/](https://www.freshersnow.com/sql-interview-questions-and-answers/)<br>
