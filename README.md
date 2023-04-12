@@ -25,6 +25,7 @@ Table of Contents
   - [https://systemweakness.com/learning-web-sec-day-1-1a22ad4b2041](https://systemweakness.com/learning-web-sec-day-1-1a22ad4b2041)<br>
   - [https://blog.bytebytego.com/p/ep50-visualizing-a-sql-query](https://blog.bytebytego.com/p/ep50-visualizing-a-sql-query)<br>
   - [https://www.sitepoint.com/how-to-learn-sql/?utm_source=newsletter&utm_medium=email&utm_campaign=how_to_learn_sql_in_2023_the_ultimate_guide_for_beginners&utm_term=2023-03-21](https://www.sitepoint.com/how-to-learn-sql/?utm_source=newsletter&utm_medium=email&utm_campaign=how_to_learn_sql_in_2023_the_ultimate_guide_for_beginners&utm_term=2023-03-21)<br>
+  - [https://www.eversql.com/postgresql-sql-optimization/](https://www.eversql.com/postgresql-sql-optimization/)<br>
 
   ## MongoDB
   - [https://learnxinyminutes.com/docs/mongodb/](https://learnxinyminutes.com/docs/mongodb/)<br>
