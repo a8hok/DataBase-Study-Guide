@@ -30,6 +30,7 @@ Table of Contents
 
   ## MongoDB
   - [https://learnxinyminutes.com/docs/mongodb/](https://learnxinyminutes.com/docs/mongodb/)<br>
+  - [https://code.tutsplus.com/tutorials/full-text-search-in-mongodb--cms-24835](https://code.tutsplus.com/tutorials/full-text-search-in-mongodb--cms-24835)<br>
 
   ## Youtube
   - [https://www.youtube.com/@GeekCoders](https://www.youtube.com/@GeekCoders)<br>
