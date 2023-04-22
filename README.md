@@ -27,6 +27,7 @@ Table of Contents
   - [https://www.sitepoint.com/how-to-learn-sql/?utm_source=newsletter&utm_medium=email&utm_campaign=how_to_learn_sql_in_2023_the_ultimate_guide_for_beginners&utm_term=2023-03-21](https://www.sitepoint.com/how-to-learn-sql/?utm_source=newsletter&utm_medium=email&utm_campaign=how_to_learn_sql_in_2023_the_ultimate_guide_for_beginners&utm_term=2023-03-21)<br>
   - [https://www.eversql.com/postgresql-sql-optimization/](https://www.eversql.com/postgresql-sql-optimization/)<br>
   - [https://www.sqlchat.ai/?ref=producthunt](https://www.sqlchat.ai/?ref=producthunt)<br>
+  - [https://faun.pub/sql-for-beginners-2022-a-practical-sql-guide-1de6adb43d52](https://faun.pub/sql-for-beginners-2022-a-practical-sql-guide-1de6adb43d52)<br>
 
   ## MongoDB
   - [https://learnxinyminutes.com/docs/mongodb/](https://learnxinyminutes.com/docs/mongodb/)<br>
