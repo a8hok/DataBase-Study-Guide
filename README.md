@@ -41,6 +41,7 @@ Table of Contents
   - [https://awstip.com/sql-nosql-whats-your-take-1be662f067ab](https://awstip.com/sql-nosql-whats-your-take-1be662f067ab)<br>
   - [https://www.sqlshack.com/postgresql-vs-mysql-understanding-their-differences/](https://www.sqlshack.com/postgresql-vs-mysql-understanding-their-differences/)<br>
   - [https://www.freecodecamp.org/news/sql-vs-nosql-tutorial/](https://www.freecodecamp.org/news/sql-vs-nosql-tutorial/)<br>
+  - [https://www.tigrisdata.com/blog/mongodb-vs-dynamodb-vs-tigris-nosql-comparison/](https://www.tigrisdata.com/blog/mongodb-vs-dynamodb-vs-tigris-nosql-comparison/)<br>
   
 
   ## SQL tips and tricks
