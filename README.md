@@ -30,6 +30,7 @@ Table of Contents
   - [https://www.sqlchat.ai/?ref=producthunt](https://www.sqlchat.ai/?ref=producthunt)<br>
   - [https://faun.pub/sql-for-beginners-2022-a-practical-sql-guide-1de6adb43d52](https://faun.pub/sql-for-beginners-2022-a-practical-sql-guide-1de6adb43d52)<br>
   - [https://itnext.io/inside-databases-ba6c564d8aa4](https://itnext.io/inside-databases-ba6c564d8aa4)<br>
+  - [https://www.cockroachlabs.com/blog/what-is-a-foreign-key/](https://www.cockroachlabs.com/blog/what-is-a-foreign-key/)<br>
 
   ## MongoDB
   - [https://learnxinyminutes.com/docs/mongodb/](https://learnxinyminutes.com/docs/mongodb/)<br>
