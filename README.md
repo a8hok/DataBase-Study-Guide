@@ -34,6 +34,7 @@ Table of Contents
   - [https://www.cockroachlabs.com/blog/what-is-a-foreign-key/](https://www.cockroachlabs.com/blog/what-is-a-foreign-key/)<br>
   - [https://dev.to/danielhe4rt/database-101-how-social-media-likes-are-stored-in-a-database-3oii](https://dev.to/danielhe4rt/database-101-how-social-media-likes-are-stored-in-a-database-3oii)<br>
   - [https://systemweakness.com/sql-injection-attack-listing-the-database-contents-on-non-oracle-databases-39c420d7a08f](https://systemweakness.com/sql-injection-attack-listing-the-database-contents-on-non-oracle-databases-39c420d7a08f)<br>
+  - [https://www.freecodecamp.org/news/learn-sql-full-course/](https://www.freecodecamp.org/news/learn-sql-full-course/)<br>
 
   ## MongoDB
   - [https://learnxinyminutes.com/docs/mongodb/](https://learnxinyminutes.com/docs/mongodb/)<br>
