@@ -20,6 +20,7 @@ Table of Contents
   - [https://www.sqlshack.com/postgresql-tutorial-for-beginners/](https://www.sqlshack.com/postgresql-tutorial-for-beginners/)<br>
   - [https://www.analyticsvidhya.com/blog/2023/05/interview-questions-on-nosql/](https://www.analyticsvidhya.com/blog/2023/05/interview-questions-on-nosql/)<br>
   - [https://www.freecodecamp.org/news/postgresql-indexing-strategies/](https://www.freecodecamp.org/news/postgresql-indexing-strategies/)<br>
+  - [https://dzone.com/articles/postgresql-jsonb-cheatsheet-complete-and-fast-look](https://dzone.com/articles/postgresql-jsonb-cheatsheet-complete-and-fast-look)<br>
 
   ## Sql
   - [https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science](https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science)<br>
