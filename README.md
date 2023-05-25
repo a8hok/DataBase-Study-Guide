@@ -13,6 +13,7 @@ Table of Contents
   ## Mysql 
   - [https://www.singlestore.com/blog/mariadb-vs-mysql/](https://www.singlestore.com/blog/mariadb-vs-mysql/)<br>
   - [https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)<br>
+  - [https://hackernoon.com/58-stories-to-learn-about-mysql?source=rss](https://hackernoon.com/58-stories-to-learn-about-mysql?source=rss)<br>
 
   ## Postgresql
   - [https://dbconvert.com/blog/mysql-vs-postgresql/](https://dbconvert.com/blog/mysql-vs-postgresql/)<br>
