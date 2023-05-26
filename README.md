@@ -55,6 +55,8 @@ Table of Contents
 
   ## SQL tips and tricks
   - [https://hackernoon.com/16-sql-techniques-every-beginner-needs-to-know?source=rss](https://hackernoon.com/16-sql-techniques-every-beginner-needs-to-know?source=rss)<br>
+  - [https://blog.bytebytego.com/p/ep60-netflix-tech-stack-databases](https://blog.bytebytego.com/p/ep60-netflix-tech-stack-databases)<br>
+  
 
   ## Database inteview questions
   - [https://www.freshersnow.com/sql-interview-questions-and-answers/](https://www.freshersnow.com/sql-interview-questions-and-answers/)<br>
