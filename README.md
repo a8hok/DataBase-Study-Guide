@@ -59,6 +59,7 @@ Table of Contents
   - [https://hackernoon.com/16-sql-techniques-every-beginner-needs-to-know?source=rss](https://hackernoon.com/16-sql-techniques-every-beginner-needs-to-know?source=rss)<br>
   - [https://blog.bytebytego.com/p/ep60-netflix-tech-stack-databases](https://blog.bytebytego.com/p/ep60-netflix-tech-stack-databases)<br>
   - [https://dev.to/kanani_nirav/secret-to-optimizing-sql-queries-understand-the-sql-execution-order-28m1](https://dev.to/kanani_nirav/secret-to-optimizing-sql-queries-understand-the-sql-execution-order-28m1)<br>
+  - [https://dev.to/johnrushx/20-databases-to-pick-in-2023-simplified-1n0n](https://dev.to/johnrushx/20-databases-to-pick-in-2023-simplified-1n0n)<br>
   
 
   ## Database inteview questions
