@@ -64,3 +64,6 @@ Table of Contents
 
   ## Database inteview questions
   - [https://www.freshersnow.com/sql-interview-questions-and-answers/](https://www.freshersnow.com/sql-interview-questions-and-answers/)<br>
+  
+  ## SQL tools
+  - [https://dev.to/documatic/awesome-sql-code-review-tools-for-developers-50c4](https://dev.to/documatic/awesome-sql-code-review-tools-for-developers-50c4)<br>
