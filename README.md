@@ -42,6 +42,7 @@ Table of Contents
   - [https://systemweakness.com/sql-injection-attack-listing-the-database-contents-on-non-oracle-databases-39c420d7a08f](https://systemweakness.com/sql-injection-attack-listing-the-database-contents-on-non-oracle-databases-39c420d7a08f)<br>
   - [https://www.freecodecamp.org/news/learn-sql-full-course/](https://www.freecodecamp.org/news/learn-sql-full-course/)<br>
   - [https://hackernoon.com/my-favorite-resources-to-learn-sql-in-depth?source=rss](https://hackernoon.com/my-favorite-resources-to-learn-sql-in-depth?source=rss)<br>
+  - [https://dzone.com/articles/sql-query-performance-tuning-in-mysql](https://dzone.com/articles/sql-query-performance-tuning-in-mysql)<br>
 
   ## MongoDB
   - [https://learnxinyminutes.com/docs/mongodb/](https://learnxinyminutes.com/docs/mongodb/)<br>
