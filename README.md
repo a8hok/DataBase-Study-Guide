@@ -43,6 +43,7 @@ Table of Contents
   - [https://www.freecodecamp.org/news/learn-sql-full-course/](https://www.freecodecamp.org/news/learn-sql-full-course/)<br>
   - [https://hackernoon.com/my-favorite-resources-to-learn-sql-in-depth?source=rss](https://hackernoon.com/my-favorite-resources-to-learn-sql-in-depth?source=rss)<br>
   - [https://dzone.com/articles/sql-query-performance-tuning-in-mysql](https://dzone.com/articles/sql-query-performance-tuning-in-mysql)<br>
+  - [https://selectfrom.dev/learning-sql-part-6-index-and-sql-views-6c12ac4529d8](https://selectfrom.dev/learning-sql-part-6-index-and-sql-views-6c12ac4529d8)<br>
 
   ## MongoDB
   - [https://learnxinyminutes.com/docs/mongodb/](https://learnxinyminutes.com/docs/mongodb/)<br>
