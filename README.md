@@ -46,6 +46,7 @@ Table of Contents
   - [https://selectfrom.dev/learning-sql-part-6-index-and-sql-views-6c12ac4529d8](https://selectfrom.dev/learning-sql-part-6-index-and-sql-views-6c12ac4529d8)<br>
   - [https://selectfrom.dev/learning-sql-part-3-create-and-drop-and-alter-table-582128c7b206](https://selectfrom.dev/learning-sql-part-3-create-and-drop-and-alter-table-582128c7b206)<br>
   - [https://selectfrom.dev/learning-sql-part-5-sql-constraints-b86c3cfc0b87](https://selectfrom.dev/learning-sql-part-5-sql-constraints-b86c3cfc0b87)<br>
+  - [https://www.freecodecamp.org/news/sql-for-web-devs/](https://www.freecodecamp.org/news/sql-for-web-devs/)<br>
 
   ## MongoDB
   - [https://learnxinyminutes.com/docs/mongodb/](https://learnxinyminutes.com/docs/mongodb/)<br>
