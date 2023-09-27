@@ -78,6 +78,7 @@ Table of Contents
   ## Database inteview questions
   - [https://www.freshersnow.com/sql-interview-questions-and-answers/](https://www.freshersnow.com/sql-interview-questions-and-answers/)<br>
   - [https://towardsdev.com/codewars-top-25-sql-interview-questions-to-ace-the-data-analyst-interview-402c10f57f9c](https://towardsdev.com/codewars-top-25-sql-interview-questions-to-ace-the-data-analyst-interview-402c10f57f9c)<br>
+  - [https://infosecwriteups.com/learn-sql-querying-techniques-with-this-comprehensive-tutorial-37320f8043e5](https://infosecwriteups.com/learn-sql-querying-techniques-with-this-comprehensive-tutorial-37320f8043e5)<br>
   
   ## SQL tools
   - [https://dev.to/documatic/awesome-sql-code-review-tools-for-developers-50c4](https://dev.to/documatic/awesome-sql-code-review-tools-for-developers-50c4)<br>
