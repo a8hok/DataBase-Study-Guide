@@ -48,6 +48,7 @@ Table of Contents
   - [https://selectfrom.dev/learning-sql-part-5-sql-constraints-b86c3cfc0b87](https://selectfrom.dev/learning-sql-part-5-sql-constraints-b86c3cfc0b87)<br>
   - [https://www.freecodecamp.org/news/sql-for-web-devs/](https://www.freecodecamp.org/news/sql-for-web-devs/)<br>
   - [https://awstip.com/understanding-joining-tables-in-sql-fbbfbe3ccad8](https://awstip.com/understanding-joining-tables-in-sql-fbbfbe3ccad8)<br>
+  - [https://www.freecodecamp.org/news/a-beginners-guide-to-sql/](https://www.freecodecamp.org/news/a-beginners-guide-to-sql/)<br>
 
   ## MongoDB
   - [https://learnxinyminutes.com/docs/mongodb/](https://learnxinyminutes.com/docs/mongodb/)<br>
