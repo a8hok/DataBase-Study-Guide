@@ -26,6 +26,7 @@ Table of Contents
   - [https://dzone.com/articles/postgresql-jsonb-cheatsheet-complete-and-fast-look](https://dzone.com/articles/postgresql-jsonb-cheatsheet-complete-and-fast-look)<br>
   - [https://www.freecodecamp.org/news/postgresql-and-json-use-json-data-in-postgresql/](https://www.freecodecamp.org/news/postgresql-and-json-use-json-data-in-postgresql/)<br>
   - [https://codeopinion.com/using-your-database-as-a-queue/](https://codeopinion.com/using-your-database-as-a-queue/)<br>
+  - [https://www.digitalocean.com/blog/introducing-digitalocean-scalable-storage?ref=dailydev](https://www.digitalocean.com/blog/introducing-digitalocean-scalable-storage?ref=dailydev)<br>
 
   ## Sql
   - [https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science](https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science)<br>
