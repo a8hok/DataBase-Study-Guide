@@ -52,6 +52,7 @@ Table of Contents
   - [https://awstip.com/understanding-joining-tables-in-sql-fbbfbe3ccad8](https://awstip.com/understanding-joining-tables-in-sql-fbbfbe3ccad8)<br>
   - [https://www.freecodecamp.org/news/a-beginners-guide-to-sql/](https://www.freecodecamp.org/news/a-beginners-guide-to-sql/)<br>
   - [https://antonz.org/sql-upsert/](https://antonz.org/sql-upsert/)<br>
+  - [https://itnext.io/foreign-keys-in-sql-582e04b9eeb7](https://itnext.io/foreign-keys-in-sql-582e04b9eeb7)<br>
 
   ## MongoDB
   - [https://learnxinyminutes.com/docs/mongodb/](https://learnxinyminutes.com/docs/mongodb/)<br>
