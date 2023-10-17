@@ -62,6 +62,7 @@ Table of Contents
   - [https://code.tutsplus.com/tutorials/full-text-search-in-mongodb--cms-24835](https://code.tutsplus.com/tutorials/full-text-search-in-mongodb--cms-24835)<br>
   - [https://www.ayoubkhial.com/blog/mean-web-app-part-6-introduction-to-mongodb-and-mongoose](https://www.ayoubkhial.com/blog/mean-web-app-part-6-introduction-to-mongodb-and-mongoose)<br>
   - [https://dzone.com/articles/a-nosql-database-mongodb](https://dzone.com/articles/a-nosql-database-mongodb)<br>
+  - [https://hackernoon.com/using-mariadb-as-a-mongodb-nosql-database?source=rss](https://hackernoon.com/using-mariadb-as-a-mongodb-nosql-database?source=rss)<br>
 
   ## Youtube
   - [https://www.youtube.com/@GeekCoders](https://www.youtube.com/@GeekCoders)<br>
