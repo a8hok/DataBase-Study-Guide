@@ -55,6 +55,7 @@ Table of Contents
   - [https://antonz.org/sql-upsert/](https://antonz.org/sql-upsert/)<br>
   - [https://itnext.io/foreign-keys-in-sql-582e04b9eeb7](https://itnext.io/foreign-keys-in-sql-582e04b9eeb7)<br>
   - [https://gorails.com/episodes/sql-learning-path-select-statement](https://gorails.com/episodes/sql-learning-path-select-statement)<br>
+  - [https://www.freecodecamp.org/news/a-beginners-guide-to-sql/](https://www.freecodecamp.org/news/a-beginners-guide-to-sql/)<br>
 
   ## MongoDB
   - [https://learnxinyminutes.com/docs/mongodb/](https://learnxinyminutes.com/docs/mongodb/)<br>
