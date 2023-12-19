@@ -95,3 +95,6 @@ Table of Contents
 
   ## Database Guide
   - [https://blog.bytebytego.com/p/ep73-cheat-sheet-of-different-databases](https://blog.bytebytego.com/p/ep73-cheat-sheet-of-different-databases)<br>
+
+  ## SQL practice
+  - [https://www.marktechpost.com/2023/12/07/best-platforms-to-practice-sql/?ref=dailydev](https://www.marktechpost.com/2023/12/07/best-platforms-to-practice-sql/?ref=dailydev)<br>
