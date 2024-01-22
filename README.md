@@ -96,6 +96,7 @@ Table of Contents
 
   ## Database Guide
   - [https://blog.bytebytego.com/p/ep73-cheat-sheet-of-different-databases](https://blog.bytebytego.com/p/ep73-cheat-sheet-of-different-databases)<br>
+  - [https://www.freecodecamp.org/news/acid-databases-explained/?ref=dailydev](https://www.freecodecamp.org/news/acid-databases-explained/?ref=dailydev)<br>
 
   ## SQL practice
   - [https://www.marktechpost.com/2023/12/07/best-platforms-to-practice-sql/?ref=dailydev](https://www.marktechpost.com/2023/12/07/best-platforms-to-practice-sql/?ref=dailydev)<br>
