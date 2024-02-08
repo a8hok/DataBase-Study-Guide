@@ -83,6 +83,7 @@ Table of Contents
   - [https://dev.to/kanani_nirav/secret-to-optimizing-sql-queries-understand-the-sql-execution-order-28m1](https://dev.to/kanani_nirav/secret-to-optimizing-sql-queries-understand-the-sql-execution-order-28m1)<br>
   - [https://dev.to/johnrushx/20-databases-to-pick-in-2023-simplified-1n0n](https://dev.to/johnrushx/20-databases-to-pick-in-2023-simplified-1n0n)<br>
   - [https://www.kdnuggets.com/2023/07/database-optimization-exploring-indexes-sql.html?utm_source=rss&utm_medium=rss&utm_campaign=database-optimization-exploring-indexes-in-sql](https://www.kdnuggets.com/2023/07/database-optimization-exploring-indexes-sql.html?utm_source=rss&utm_medium=rss&utm_campaign=database-optimization-exploring-indexes-in-sql)<br>
+  - [https://towardsdev.com/3-essential-sql-tricks-you-absolutely-need-to-know-1005084a8579](https://towardsdev.com/3-essential-sql-tricks-you-absolutely-need-to-know-1005084a8579)<br>
   
 
   ## Database inteview questions
