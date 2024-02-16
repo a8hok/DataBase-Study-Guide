@@ -85,6 +85,7 @@ Table of Contents
   - [https://www.kdnuggets.com/2023/07/database-optimization-exploring-indexes-sql.html?utm_source=rss&utm_medium=rss&utm_campaign=database-optimization-exploring-indexes-in-sql](https://www.kdnuggets.com/2023/07/database-optimization-exploring-indexes-sql.html?utm_source=rss&utm_medium=rss&utm_campaign=database-optimization-exploring-indexes-in-sql)<br>
   - [https://towardsdev.com/3-essential-sql-tricks-you-absolutely-need-to-know-1005084a8579](https://towardsdev.com/3-essential-sql-tricks-you-absolutely-need-to-know-1005084a8579)<br>
   - [https://levelup.gitconnected.com/mastering-sql-joins-eb786ad7a7c7](https://levelup.gitconnected.com/mastering-sql-joins-eb786ad7a7c7)<br>
+  - [https://zaidesanton.substack.com/p/the-most-underrated-skill-sql-for?ref=dailydev](https://zaidesanton.substack.com/p/the-most-underrated-skill-sql-for?ref=dailydev)<br>
   
 
   ## Database inteview questions
