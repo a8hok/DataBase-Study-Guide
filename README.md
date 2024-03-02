@@ -1,4 +1,4 @@
-# Database Study Guide
+# DataBase Study Guide
 
 Table of Contents
 =================
