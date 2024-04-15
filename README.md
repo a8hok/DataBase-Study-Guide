@@ -68,6 +68,7 @@ Table of Contents
   - [https://www.ayoubkhial.com/blog/mean-web-app-part-6-introduction-to-mongodb-and-mongoose](https://www.ayoubkhial.com/blog/mean-web-app-part-6-introduction-to-mongodb-and-mongoose)<br>
   - [https://dzone.com/articles/a-nosql-database-mongodb](https://dzone.com/articles/a-nosql-database-mongodb)<br>
   - [https://hackernoon.com/using-mariadb-as-a-mongodb-nosql-database?source=rss](https://hackernoon.com/using-mariadb-as-a-mongodb-nosql-database?source=rss)<br>
+  - [https://systemweakness.com/mongodb-full-and-incremental-backup-using-mongodump-f381f4f63e59](https://systemweakness.com/mongodb-full-and-incremental-backup-using-mongodump-f381f4f63e59)<br>
 
   ## Youtube
   - [https://www.youtube.com/@GeekCoders](https://www.youtube.com/@GeekCoders)<br>
