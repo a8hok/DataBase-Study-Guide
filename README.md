@@ -101,6 +101,7 @@ Table of Contents
   ## SQL tools
   - [https://dev.to/documatic/awesome-sql-code-review-tools-for-developers-50c4](https://dev.to/documatic/awesome-sql-code-review-tools-for-developers-50c4)<br>
   - [https://sql-formatter-org.github.io/sql-formatter/?ref=dailydev](https://sql-formatter-org.github.io/sql-formatter/?ref=dailydev)<br>
+  - [https://www.freecodecamp.org/news/learn-sql-for-analytics/?ref=dailydev](https://www.freecodecamp.org/news/learn-sql-for-analytics/?ref=dailydev)<br>
 
   ## Database Guide
   - [https://blog.bytebytego.com/p/ep73-cheat-sheet-of-different-databases](https://blog.bytebytego.com/p/ep73-cheat-sheet-of-different-databases)<br>
