@@ -34,6 +34,7 @@ Table of Contents
   - [https://www.digitalocean.com/blog/introducing-digitalocean-scalable-storage?ref=dailydev](https://www.digitalocean.com/blog/introducing-digitalocean-scalable-storage?ref=dailydev)<br>
   - [https://www.freecodecamp.org/news/posgresql-course-for-beginners/?ref=dailydev](https://www.freecodecamp.org/news/posgresql-course-for-beginners/?ref=dailydev)<br>
   - [https://www.freecodecamp.org/news/postgresql-and-json-use-json-data-in-postgresql/](https://www.freecodecamp.org/news/postgresql-and-json-use-json-data-in-postgresql/)<br>
+  - [https://www.freecodecamp.org/news/posgresql-course-for-beginners/](https://www.freecodecamp.org/news/posgresql-course-for-beginners/)<br>
 
   ## Sql
   - [https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science](https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science)<br>
