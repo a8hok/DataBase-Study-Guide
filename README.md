@@ -110,3 +110,4 @@ Table of Contents
 
   ## SQL practice
   - [https://www.marktechpost.com/2023/12/07/best-platforms-to-practice-sql/?ref=dailydev](https://www.marktechpost.com/2023/12/07/best-platforms-to-practice-sql/?ref=dailydev)<br>
+  - [https://www.freecodecamp.org/news/database-optimization-principles/?ref=dailydev](https://www.freecodecamp.org/news/database-optimization-principles/?ref=dailydev)<br>
