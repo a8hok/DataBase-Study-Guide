@@ -113,3 +113,8 @@ Table of Contents
   - [https://www.marktechpost.com/2023/12/07/best-platforms-to-practice-sql/?ref=dailydev](https://www.marktechpost.com/2023/12/07/best-platforms-to-practice-sql/?ref=dailydev)<br>
   - [https://www.freecodecamp.org/news/database-optimization-principles/?ref=dailydev](https://www.freecodecamp.org/news/database-optimization-principles/?ref=dailydev)<br>
   - [https://www.kdnuggets.com/10-github-repositories-to-master-sql?ref=dailydev](https://www.kdnuggets.com/10-github-repositories-to-master-sql?ref=dailydev)<br>
+
+  ## Database trends
+  - [https://www.kdnuggets.com/7-modern-sql-database-you-must-know-in-2024?ref=dailydev](https://www.kdnuggets.com/7-modern-sql-database-you-must-know-in-2024?ref=dailydev)<br>
+  - []()<br>
+
