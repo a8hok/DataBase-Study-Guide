@@ -118,3 +118,6 @@ Table of Contents
   - [https://www.kdnuggets.com/7-modern-sql-database-you-must-know-in-2024?ref=dailydev](https://www.kdnuggets.com/7-modern-sql-database-you-must-know-in-2024?ref=dailydev)<br>
   - []()<br>
 
+  ## Database performance
+  - [https://digma.ai/the-performance-impact-of-writing-bad-sql-queries/?ref=dailydev](https://digma.ai/the-performance-impact-of-writing-bad-sql-queries/?ref=dailydev)<br>
+
