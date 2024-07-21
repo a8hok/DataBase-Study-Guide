@@ -122,3 +122,6 @@ Table of Contents
   ## Database performance
   - [https://digma.ai/the-performance-impact-of-writing-bad-sql-queries/?ref=dailydev](https://digma.ai/the-performance-impact-of-writing-bad-sql-queries/?ref=dailydev)<br>
 
+  ## Roadmap
+  - [https://roadmap.sh/sql?ref=dailydev](https://roadmap.sh/sql?ref=dailydev)<br>
+
