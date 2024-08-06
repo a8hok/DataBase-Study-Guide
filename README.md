@@ -123,6 +123,7 @@ Table of Contents
   - [https://digma.ai/the-performance-impact-of-writing-bad-sql-queries/?ref=dailydev](https://digma.ai/the-performance-impact-of-writing-bad-sql-queries/?ref=dailydev)<br>
   - [https://blog.devops.dev/sql-joins-a-beginners-guide-with-real-world-examples-bc84cf6667fb](https://blog.devops.dev/sql-joins-a-beginners-guide-with-real-world-examples-bc84cf6667fb)<br>
   - [https://blog.devops.dev/sql-query-optimization-with-10-proven-techniques-for-enhanced-performance-b806e4952e46](https://blog.devops.dev/sql-query-optimization-with-10-proven-techniques-for-enhanced-performance-b806e4952e46)<br>
+  - [https://newsletter.systemdesigncodex.com/p/7-techniques-for-database-performance?ref=dailydev](https://newsletter.systemdesigncodex.com/p/7-techniques-for-database-performance?ref=dailydev)<br>
 
   ## Roadmap
   - [https://roadmap.sh/sql?ref=dailydev](https://roadmap.sh/sql?ref=dailydev)<br>
