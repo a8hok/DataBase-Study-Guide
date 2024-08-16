@@ -21,6 +21,7 @@ Table of Contents
   - [https://hackernoon.com/58-stories-to-learn-about-mysql?source=rss](https://hackernoon.com/58-stories-to-learn-about-mysql?source=rss)<br>
   - [https://hackernoon.com/a-guide-to-understanding-indexes-in-mysql?source=rss](https://hackernoon.com/a-guide-to-understanding-indexes-in-mysql?source=rss)<br>
   - [https://planetscale.com/blog/distributed-caching-systems-and-mysql?ref=dailydev](https://planetscale.com/blog/distributed-caching-systems-and-mysql?ref=dailydev)<br>
+  - [https://mysqlexplain.com/?ref=dailydev](https://mysqlexplain.com/?ref=dailydev)<br>
 
   ## Postgresql
   - [https://dbconvert.com/blog/mysql-vs-postgresql/](https://dbconvert.com/blog/mysql-vs-postgresql/)<br>
