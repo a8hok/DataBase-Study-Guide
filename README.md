@@ -135,4 +135,5 @@ Table of Contents
   - [https://blog.amigoscode.com/p/graphql-explained?r=22x1kh&utm_campaign=post&utm_medium=web&ref=dailydev&triedRedirect=true](https://blog.amigoscode.com/p/graphql-explained?r=22x1kh&utm_campaign=post&utm_medium=web&ref=dailydev&triedRedirect=true)<br>
   - [https://blog.amigoscode.com/p/graphql-explained?ref=dailydev](https://blog.amigoscode.com/p/graphql-explained?ref=dailydev)<br>
   - [https://www.infoworld.com/article/2268034/how-to-get-started-with-graphql.html](https://www.infoworld.com/article/2268034/how-to-get-started-with-graphql.html)<br>
+  - [https://thetshaped.dev/p/graphql-intro-101-part-1?ref=dailydev](https://thetshaped.dev/p/graphql-intro-101-part-1?ref=dailydev)<br>
 
