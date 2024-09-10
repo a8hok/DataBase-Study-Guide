@@ -87,6 +87,7 @@ Table of Contents
   - [https://www.tigrisdata.com/blog/mongodb-vs-dynamodb-vs-tigris-nosql-comparison/](https://www.tigrisdata.com/blog/mongodb-vs-dynamodb-vs-tigris-nosql-comparison/)<br>
   - [https://dzone.com/articles/sql-vs-nosql-explained](https://dzone.com/articles/sql-vs-nosql-explained)<br>
   - [https://blog.amigoscode.com/p/sql-vs-nosql-explained?ref=dailydev](https://blog.amigoscode.com/p/sql-vs-nosql-explained?ref=dailydev)<br>
+  - [https://www.singlestore.com/blog/to-sql-or-nosql/](https://www.singlestore.com/blog/to-sql-or-nosql/)<br>
   
 
   ## SQL tips and tricks
