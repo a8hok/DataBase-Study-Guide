@@ -123,7 +123,7 @@ Table of Contents
 
   ## Database trends
   - [https://www.kdnuggets.com/7-modern-sql-database-you-must-know-in-2024?ref=dailydev](https://www.kdnuggets.com/7-modern-sql-database-you-must-know-in-2024?ref=dailydev)<br>
-  - []()<br>
+  - [https://sahaniindrajit.hashnode.dev/understanding-database-transactions?ref=dailydev](https://sahaniindrajit.hashnode.dev/understanding-database-transactions?ref=dailydev)<br>
 
   ## Database performance
   - [https://digma.ai/the-performance-impact-of-writing-bad-sql-queries/?ref=dailydev](https://digma.ai/the-performance-impact-of-writing-bad-sql-queries/?ref=dailydev)<br>
