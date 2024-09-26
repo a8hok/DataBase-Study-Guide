@@ -141,4 +141,5 @@ Table of Contents
   - [https://blog.amigoscode.com/p/graphql-explained?ref=dailydev](https://blog.amigoscode.com/p/graphql-explained?ref=dailydev)<br>
   - [https://www.infoworld.com/article/2268034/how-to-get-started-with-graphql.html](https://www.infoworld.com/article/2268034/how-to-get-started-with-graphql.html)<br>
   - [https://thetshaped.dev/p/graphql-intro-101-part-1?ref=dailydev](https://thetshaped.dev/p/graphql-intro-101-part-1?ref=dailydev)<br>
+  - [https://tailcall.run/blog/graphql-schema/?ref=dailydev](https://tailcall.run/blog/graphql-schema/?ref=dailydev)<br>
 
