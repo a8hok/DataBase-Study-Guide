@@ -2,17 +2,22 @@
 
 Table of Contents
 =================
-  * [Mysql](#mysql)
-  * [Postgresql](#postgresql)
-  * [Sql](#sql)
-  * [MongoDB](#mongodb)
-  * [Youtube](#youtube)
-  * [SQL vs NoSQL](#sql-vs-nosql)
-  * [SQL tips and tricks](#sql-tips-and-tricks)
-  * [Database inteview questions](#database-inteview-questions)
-  * [SQL tools](#sql-tools)
-  * [Database Guide](#database-guide)
-  * [SQL practice](#sql-practice)
+- [Mysql](#mysql)
+- [Postgresql](#postgresql)
+- [Sql](#sql)
+- [MongoDB](#mongodb)
+- [Youtube](#youtube)
+- [SQL vs NoSQL](#sql-vs-nosql)
+- [SQL tips and tricks](#sql-tips-and-tricks)
+- [Database inteview questions](#database-inteview-questions)
+- [SQL tools](#sql-tools)
+- [Database Guide](#database-guide)
+- [SQL practice](#sql-practice)
+- [Database trends](#database-trends)
+- [Database performance](#database-performance)
+- [Roadmap](#roadmap)
+- [GraphQL](#graphql)
+- [Other DB](#other-db)
      
 
   ## Mysql 
