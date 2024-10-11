@@ -140,6 +140,7 @@ Table of Contents
   - [https://newsletter.systemdesigncodex.com/p/7-techniques-for-database-performance?ref=dailydev](https://newsletter.systemdesigncodex.com/p/7-techniques-for-database-performance?ref=dailydev)<br>
   - [https://www.tinybird.co/blog-posts/database-timestamps-timezones?ref=dailydev](https://www.tinybird.co/blog-posts/database-timestamps-timezones?ref=dailydev)<br>
   - [https://dev.to/jacobandrewsky/improving-performance-of-postgresql-queries-1h7o?context=digest](https://dev.to/jacobandrewsky/improving-performance-of-postgresql-queries-1h7o?context=digest)<br>
+  - [https://www.kdnuggets.com/5-tips-for-improving-sql-query-performance?ref=dailydev](https://www.kdnuggets.com/5-tips-for-improving-sql-query-performance?ref=dailydev)<br>
 
   ## Roadmap
   - [https://roadmap.sh/sql?ref=dailydev](https://roadmap.sh/sql?ref=dailydev)<br>
