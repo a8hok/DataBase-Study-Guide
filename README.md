@@ -89,6 +89,7 @@ Table of Contents
   ## Youtube
   - [https://www.youtube.com/@GeekCoders](https://www.youtube.com/@GeekCoders)<br>
   - [https://www.youtube.com/playlist?list=PLxy0DxWEupiOU8M_GkSTYOMLB7Q9pAAZe](https://www.youtube.com/playlist?list=PLxy0DxWEupiOU8M_GkSTYOMLB7Q9pAAZe)<br>
+  - [https://www.freecodecamp.org/news/learn-databases-in-depth/](https://www.freecodecamp.org/news/learn-databases-in-depth/)<br>
 
   ## SQL vs NoSQL
   - [https://awstip.com/sql-nosql-whats-your-take-1be662f067ab](https://awstip.com/sql-nosql-whats-your-take-1be662f067ab)<br>
