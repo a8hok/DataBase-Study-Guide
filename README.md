@@ -45,6 +45,7 @@ Table of Contents
   - [https://vinioyama.com/blog/practical-guide-for-database-scaling-how-to-use-postgres-logical-replication/?ref=dailydev](https://vinioyama.com/blog/practical-guide-for-database-scaling-how-to-use-postgres-logical-replication/?ref=dailydev)<br>
   - [https://www.freecodecamp.org/news/postgresql-and-json-use-json-data-in-postgresql/](https://www.freecodecamp.org/news/postgresql-and-json-use-json-data-in-postgresql/)<br>
   - [https://spin.atomicobject.com/redis-postgresql/?ref=dailydev](https://spin.atomicobject.com/redis-postgresql/?ref=dailydev)<br>
+  - [https://www.infoworld.com/article/3489168/postgresql-tutorial-get-started-with-postgresql-16.html?ref=dailydev](https://www.infoworld.com/article/3489168/postgresql-tutorial-get-started-with-postgresql-16.html?ref=dailydev)<br>
 
   ## Sql
   - [https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science](https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science)<br>
