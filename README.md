@@ -47,6 +47,7 @@ Table of Contents
   - [https://spin.atomicobject.com/redis-postgresql/?ref=dailydev](https://spin.atomicobject.com/redis-postgresql/?ref=dailydev)<br>
   - [https://www.infoworld.com/article/3489168/postgresql-tutorial-get-started-with-postgresql-16.html?ref=dailydev](https://www.infoworld.com/article/3489168/postgresql-tutorial-get-started-with-postgresql-16.html?ref=dailydev)<br>
   - [https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4](https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4)<br>
+  - [https://masteringpostgres.com/?ref=dailydev](https://masteringpostgres.com/?ref=dailydev)<br>
 
   ## Sql
   - [https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science](https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science)<br>
