@@ -28,6 +28,7 @@ Table of Contents
   - [https://planetscale.com/blog/distributed-caching-systems-and-mysql?ref=dailydev](https://planetscale.com/blog/distributed-caching-systems-and-mysql?ref=dailydev)<br>
   - [https://mysqlexplain.com/?ref=dailydev](https://mysqlexplain.com/?ref=dailydev)<br>
   - [https://blog.stackademic.com/optimizing-mysql-queries-from-190-seconds-to-1-second-for-tens-of-millions-of-records-c9d61b7e75b9](https://blog.stackademic.com/optimizing-mysql-queries-from-190-seconds-to-1-second-for-tens-of-millions-of-records-c9d61b7e75b9)<br>
+  - [https://www.youtube.com/watch?v=R7jBtnrUmYI](https://www.youtube.com/watch?v=R7jBtnrUmYI)<br>
 
   ## Postgresql
   - [https://dbconvert.com/blog/mysql-vs-postgresql/](https://dbconvert.com/blog/mysql-vs-postgresql/)<br>
