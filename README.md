@@ -160,6 +160,7 @@ Table of Contents
 
   ## Other DB
   - [https://duckdb.org/2024/08/19/duckdb-tricks-part-1.html?ref=dailydev](https://duckdb.org/2024/08/19/duckdb-tricks-part-1.html?ref=dailydev)<br>
+  - [https://blog.dailydoseofds.com/p/semi-anti-and-natural-joins-in-duckdb?ref=dailydev](https://blog.dailydoseofds.com/p/semi-anti-and-natural-joins-in-duckdb?ref=dailydev)<br>
 
   ## Datatypes
   - [https://blog.bytebytego.com/p/understanding-database-types?ref=dailydev](https://blog.bytebytego.com/p/understanding-database-types?ref=dailydev)<br>
