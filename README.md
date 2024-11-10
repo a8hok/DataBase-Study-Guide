@@ -157,6 +157,7 @@ Table of Contents
   - [https://www.infoworld.com/article/2268034/how-to-get-started-with-graphql.html](https://www.infoworld.com/article/2268034/how-to-get-started-with-graphql.html)<br>
   - [https://thetshaped.dev/p/graphql-intro-101-part-1?ref=dailydev](https://thetshaped.dev/p/graphql-intro-101-part-1?ref=dailydev)<br>
   - [https://tailcall.run/blog/graphql-schema/?ref=dailydev](https://tailcall.run/blog/graphql-schema/?ref=dailydev)<br>
+  - [https://nordicapis.com/how-modern-banking-is-using-graphql/?ref=dailydev](https://nordicapis.com/how-modern-banking-is-using-graphql/?ref=dailydev)<br>
 
   ## Other DB
   - [https://duckdb.org/2024/08/19/duckdb-tricks-part-1.html?ref=dailydev](https://duckdb.org/2024/08/19/duckdb-tricks-part-1.html?ref=dailydev)<br>
