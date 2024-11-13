@@ -78,6 +78,7 @@ Table of Contents
   - [https://gorails.com/episodes/sql-learning-path-select-statement](https://gorails.com/episodes/sql-learning-path-select-statement)<br>
   - [https://www.freecodecamp.org/news/a-beginners-guide-to-sql/](https://www.freecodecamp.org/news/a-beginners-guide-to-sql/)<br>
   - [https://blog.dailydoseofds.com/p/grouping-sets-rollup-and-cube-in?ref=dailydev](https://blog.dailydoseofds.com/p/grouping-sets-rollup-and-cube-in?ref=dailydev)<br>
+  - [https://www.sqlstyle.guide/?utm_source=dbweekly&utm_medium=email](https://www.sqlstyle.guide/?utm_source=dbweekly&utm_medium=email)<br>
 
   ## MongoDB
   - [https://learnxinyminutes.com/docs/mongodb/](https://learnxinyminutes.com/docs/mongodb/)<br>
