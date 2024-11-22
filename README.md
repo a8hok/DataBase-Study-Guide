@@ -169,4 +169,7 @@ Table of Contents
   ## Datatypes
   - [https://blog.bytebytego.com/p/understanding-database-types?ref=dailydev](https://blog.bytebytego.com/p/understanding-database-types?ref=dailydev)<br>
 
+  ## Redis
+  - [https://www.freecodecamp.org/news/build-a-scalable-url-shortener-with-distributed-caching-using-redis/](https://www.freecodecamp.org/news/build-a-scalable-url-shortener-with-distributed-caching-using-redis/)<br>
+
 
