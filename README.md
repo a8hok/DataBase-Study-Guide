@@ -172,4 +172,7 @@ Table of Contents
   ## Redis
   - [https://www.freecodecamp.org/news/build-a-scalable-url-shortener-with-distributed-caching-using-redis/](https://www.freecodecamp.org/news/build-a-scalable-url-shortener-with-distributed-caching-using-redis/)<br>
 
+  ## Database Indexes
+  - [https://computersciencesimplified.substack.com/p/database-indexing-explained?ref=dailydev&triedRedirect=true](https://computersciencesimplified.substack.com/p/database-indexing-explained?ref=dailydev&triedRedirect=true)
+
 
