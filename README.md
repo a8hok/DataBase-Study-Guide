@@ -50,6 +50,7 @@ Table of Contents
   - [https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4](https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4)<br>
   - [https://masteringpostgres.com/?ref=dailydev](https://masteringpostgres.com/?ref=dailydev)<br>
   - [https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4](https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4)<br>
+  - [https://dev.to/awalias/prisma-postgres-4o09?ref=dailydev](https://dev.to/awalias/prisma-postgres-4o09?ref=dailydev)<br>
 
   ## Sql
   - [https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science](https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science)<br>
