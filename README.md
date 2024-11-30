@@ -174,5 +174,8 @@ Table of Contents
 
   ## Database Indexes
   - [https://computersciencesimplified.substack.com/p/database-indexing-explained?ref=dailydev&triedRedirect=true](https://computersciencesimplified.substack.com/p/database-indexing-explained?ref=dailydev&triedRedirect=true)
+ 
+  ## Database Sharding
+  - [https://newsletter.systemdesigncodex.com/p/database-sharding?ref=dailydev](https://newsletter.systemdesigncodex.com/p/database-sharding?ref=dailydev)<br>
 
 
