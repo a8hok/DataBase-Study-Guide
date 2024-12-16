@@ -52,6 +52,7 @@ Table of Contents
   - [https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4](https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4)<br>
   - [https://dev.to/awalias/prisma-postgres-4o09?ref=dailydev](https://dev.to/awalias/prisma-postgres-4o09?ref=dailydev)<br>
   - [https://quizapi.io/predefined-quizzes/postgresql-performance-optimization-techniques-quiz?ref=dailydev](https://quizapi.io/predefined-quizzes/postgresql-performance-optimization-techniques-quiz?ref=dailydev)<br>
+  - [https://www.strongdm.com/blog/postgres-create-database?ref=dailydev](https://www.strongdm.com/blog/postgres-create-database?ref=dailydev)<br>
 
   ## Sql
   - [https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science](https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science)<br>
