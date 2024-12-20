@@ -82,6 +82,7 @@ Table of Contents
   - [https://www.freecodecamp.org/news/a-beginners-guide-to-sql/](https://www.freecodecamp.org/news/a-beginners-guide-to-sql/)<br>
   - [https://blog.dailydoseofds.com/p/grouping-sets-rollup-and-cube-in?ref=dailydev](https://blog.dailydoseofds.com/p/grouping-sets-rollup-and-cube-in?ref=dailydev)<br>
   - [https://www.sqlstyle.guide/?utm_source=dbweekly&utm_medium=email](https://www.sqlstyle.guide/?utm_source=dbweekly&utm_medium=email)<br>
+  - [https://github.com/isandeepMakwana/SQL?tab=readme-ov-file](https://github.com/isandeepMakwana/SQL?tab=readme-ov-file)<br>
 
   ## MongoDB
   - [https://learnxinyminutes.com/docs/mongodb/](https://learnxinyminutes.com/docs/mongodb/)<br>
