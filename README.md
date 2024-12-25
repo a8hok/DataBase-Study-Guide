@@ -186,5 +186,6 @@ Table of Contents
 
   ## ORM
   - [https://www.freecodecamp.org/news/how-to-write-cleaner-code-using-mongoose-schemas/?ref=dailydev](https://www.freecodecamp.org/news/how-to-write-cleaner-code-using-mongoose-schemas/?ref=dailydev)<br>
+  - [https://javascript.plainenglish.io/using-mongoose-with-typescript-cc1804d7e472](https://javascript.plainenglish.io/using-mongoose-with-typescript-cc1804d7e472)<br>
 
 
