@@ -159,6 +159,9 @@ Table of Contents
   - [https://blog.devops.dev/understanding-sql-indexes-8b1f3783fc8a](https://blog.devops.dev/understanding-sql-indexes-8b1f3783fc8a)<br>
   - [https://medium.com/@hnasr/avoid-select-even-on-a-single-column-tables-d6deed7b4aee](https://medium.com/@hnasr/avoid-select-even-on-a-single-column-tables-d6deed7b4aee)<br>
 
+  ## Database cheatsheet
+  - [https://www.dbvis.com/thetable/sql-cheat-sheet-every-join-explained/?ref=dailydev](https://www.dbvis.com/thetable/sql-cheat-sheet-every-join-explained/?ref=dailydev)<br>
+  
   ## Roadmap
   - [https://roadmap.sh/sql?ref=dailydev](https://roadmap.sh/sql?ref=dailydev)<br>
 
