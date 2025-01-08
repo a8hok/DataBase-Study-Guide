@@ -196,4 +196,7 @@ Table of Contents
   - [https://javascript.plainenglish.io/using-mongoose-with-typescript-cc1804d7e472](https://javascript.plainenglish.io/using-mongoose-with-typescript-cc1804d7e472)<br>
   - [https://dev.to/awalias/prisma-postgres-4o09?ref=dailydev](https://dev.to/awalias/prisma-postgres-4o09?ref=dailydev)<br>
 
+  ## SQL Injections
+  - [https://systemweakness.com/error-based-sql-injection-954035d20ec9](https://systemweakness.com/error-based-sql-injection-954035d20ec9)<br>
+
 
