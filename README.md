@@ -195,6 +195,7 @@ Table of Contents
   - [https://www.freecodecamp.org/news/how-to-write-cleaner-code-using-mongoose-schemas/?ref=dailydev](https://www.freecodecamp.org/news/how-to-write-cleaner-code-using-mongoose-schemas/?ref=dailydev)<br>
   - [https://javascript.plainenglish.io/using-mongoose-with-typescript-cc1804d7e472](https://javascript.plainenglish.io/using-mongoose-with-typescript-cc1804d7e472)<br>
   - [https://dev.to/awalias/prisma-postgres-4o09?ref=dailydev](https://dev.to/awalias/prisma-postgres-4o09?ref=dailydev)<br>
+  - [https://medium.com/@armaancodes/schema-methods-in-mongodb-mongoose-efd6e6bb9cc8](https://medium.com/@armaancodes/schema-methods-in-mongodb-mongoose-efd6e6bb9cc8)<br>
 
   ## SQL Injections
   - [https://systemweakness.com/error-based-sql-injection-954035d20ec9](https://systemweakness.com/error-based-sql-injection-954035d20ec9)<br>
