@@ -190,6 +190,7 @@ Table of Contents
  
   ## Database Sharding
   - [https://newsletter.systemdesigncodex.com/p/database-sharding?ref=dailydev](https://newsletter.systemdesigncodex.com/p/database-sharding?ref=dailydev)<br>
+  - [https://planetscale.com/blog/database-sharding?ref=dailydev](https://planetscale.com/blog/database-sharding?ref=dailydev)<br>
 
   ## ORM
   - [https://www.freecodecamp.org/news/how-to-write-cleaner-code-using-mongoose-schemas/?ref=dailydev](https://www.freecodecamp.org/news/how-to-write-cleaner-code-using-mongoose-schemas/?ref=dailydev)<br>
