@@ -96,6 +96,7 @@ Table of Contents
   - [https://systemweakness.com/mongodb-full-and-incremental-backup-using-mongodump-f381f4f63e59](https://systemweakness.com/mongodb-full-and-incremental-backup-using-mongodump-f381f4f63e59)<br>
   - [https://www.freecodecamp.org/news/how-to-write-cleaner-code-using-mongoose-schemas/?ref=dailydev](https://www.freecodecamp.org/news/how-to-write-cleaner-code-using-mongoose-schemas/?ref=dailydev)<br>
   - [https://www.freecodecamp.org/news/how-to-write-cleaner-code-using-mongoose-schemas/?ref=dailydev](https://www.freecodecamp.org/news/how-to-write-cleaner-code-using-mongoose-schemas/?ref=dailydev)<br>
+  - [https://event-driven.io/en/mongodb_event_store/?ref=dailydev](https://event-driven.io/en/mongodb_event_store/?ref=dailydev)<br>
 
   ## Youtube
   - [https://www.youtube.com/@GeekCoders](https://www.youtube.com/@GeekCoders)<br>
