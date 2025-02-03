@@ -123,6 +123,7 @@ Table of Contents
   - [https://levelup.gitconnected.com/mastering-sql-joins-eb786ad7a7c7](https://levelup.gitconnected.com/mastering-sql-joins-eb786ad7a7c7)<br>
   - [https://zaidesanton.substack.com/p/the-most-underrated-skill-sql-for?ref=dailydev](https://zaidesanton.substack.com/p/the-most-underrated-skill-sql-for?ref=dailydev)<br>
   - [https://github.com/ben-n93/SQL-tips-and-tricks?ref=dailydev](https://github.com/ben-n93/SQL-tips-and-tricks?ref=dailydev)<br>
+  - [https://neon.tech/blog/test-your-database-without-mocks?ref=dailydev](https://neon.tech/blog/test-your-database-without-mocks?ref=dailydev)<br>
   
 
   ## Database inteview questions
