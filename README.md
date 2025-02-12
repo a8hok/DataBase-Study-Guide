@@ -86,6 +86,7 @@ Table of Contents
   - [https://blog.dailydoseofds.com/p/grouping-sets-rollup-and-cube-in?ref=dailydev](https://blog.dailydoseofds.com/p/grouping-sets-rollup-and-cube-in?ref=dailydev)<br>
   - [https://www.sqlstyle.guide/?utm_source=dbweekly&utm_medium=email](https://www.sqlstyle.guide/?utm_source=dbweekly&utm_medium=email)<br>
   - [https://github.com/isandeepMakwana/SQL?tab=readme-ov-file](https://github.com/isandeepMakwana/SQL?tab=readme-ov-file)<br>
+  - [https://www.freecodecamp.org/news/learn-relational-database-basics-key-concepts-for-beginners/?ref=dailydev](https://www.freecodecamp.org/news/learn-relational-database-basics-key-concepts-for-beginners/?ref=dailydev)<br>
 
   ## MongoDB
   - [https://learnxinyminutes.com/docs/mongodb/](https://learnxinyminutes.com/docs/mongodb/)<br>
