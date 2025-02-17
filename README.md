@@ -166,6 +166,7 @@ Table of Contents
 
   ## Database cheatsheet
   - [https://www.dbvis.com/thetable/sql-cheat-sheet-every-join-explained/?ref=dailydev](https://www.dbvis.com/thetable/sql-cheat-sheet-every-join-explained/?ref=dailydev)<br>
+  - [https://www.singlestore.com/blog/the-database-cheatsheet-essential-table-operations/](https://www.singlestore.com/blog/the-database-cheatsheet-essential-table-operations/)<br>
   
   ## Roadmap
   - [https://roadmap.sh/sql?ref=dailydev](https://roadmap.sh/sql?ref=dailydev)<br>
