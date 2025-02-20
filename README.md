@@ -56,6 +56,7 @@ Table of Contents
   - [https://www.strongdm.com/blog/postgres-list-databases?ref=dailydev](https://www.strongdm.com/blog/postgres-list-databases?ref=dailydev)<br>
   - [https://jsdev.space/howto/postgresql-docker-compose?ref=dailydev](https://jsdev.space/howto/postgresql-docker-compose?ref=dailydev)<br>
   - [https://towardsdatascience.com/query-optimization-for-mere-humans-in-postgresql-875ab864390a](https://towardsdatascience.com/query-optimization-for-mere-humans-in-postgresql-875ab864390a)<br>
+  - [https://speakdatascience.com/postgresql-best-practices/?ref=dailydev](https://speakdatascience.com/postgresql-best-practices/?ref=dailydev)<br>
 
   ## Sql
   - [https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science](https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science)<br>
