@@ -126,6 +126,7 @@ Table of Contents
   - [https://zaidesanton.substack.com/p/the-most-underrated-skill-sql-for?ref=dailydev](https://zaidesanton.substack.com/p/the-most-underrated-skill-sql-for?ref=dailydev)<br>
   - [https://github.com/ben-n93/SQL-tips-and-tricks?ref=dailydev](https://github.com/ben-n93/SQL-tips-and-tricks?ref=dailydev)<br>
   - [https://neon.tech/blog/test-your-database-without-mocks?ref=dailydev](https://neon.tech/blog/test-your-database-without-mocks?ref=dailydev)<br>
+  - [https://dev.to/lovestaco/speed-up-db-queries-like-a-pro-2d95?ref=dailydev](https://dev.to/lovestaco/speed-up-db-queries-like-a-pro-2d95?ref=dailydev)<br>
   
 
   ## Database inteview questions
