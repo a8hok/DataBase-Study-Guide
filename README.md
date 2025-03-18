@@ -195,6 +195,7 @@ Table of Contents
   ## Redis
   - [https://www.freecodecamp.org/news/build-a-scalable-url-shortener-with-distributed-caching-using-redis/](https://www.freecodecamp.org/news/build-a-scalable-url-shortener-with-distributed-caching-using-redis/)<br>
   - [https://last9.io/blog/retrieving-all-keys-in-redis/?ref=dailydev](https://last9.io/blog/retrieving-all-keys-in-redis/?ref=dailydev)<br>
+  - [https://leapcell.io/blog/redis-data-types-explained?ref=dailydev](https://leapcell.io/blog/redis-data-types-explained?ref=dailydev)<br>
 
   ## Database Indexes
   - [https://computersciencesimplified.substack.com/p/database-indexing-explained?ref=dailydev&triedRedirect=true](https://computersciencesimplified.substack.com/p/database-indexing-explained?ref=dailydev&triedRedirect=true)
