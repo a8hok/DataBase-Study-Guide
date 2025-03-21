@@ -185,6 +185,7 @@ Table of Contents
   - [https://thetshaped.dev/p/graphql-intro-101-part-1?ref=dailydev](https://thetshaped.dev/p/graphql-intro-101-part-1?ref=dailydev)<br>
   - [https://tailcall.run/blog/graphql-schema/?ref=dailydev](https://tailcall.run/blog/graphql-schema/?ref=dailydev)<br>
   - [https://nordicapis.com/how-modern-banking-is-using-graphql/?ref=dailydev](https://nordicapis.com/how-modern-banking-is-using-graphql/?ref=dailydev)<br>
+  - [https://dev.to/asafaeirad/the-myth-of-graphql-20fl](https://dev.to/asafaeirad/the-myth-of-graphql-20fl)<br>
 
   ## Other DB
   - [https://duckdb.org/2024/08/19/duckdb-tricks-part-1.html?ref=dailydev](https://duckdb.org/2024/08/19/duckdb-tricks-part-1.html?ref=dailydev)<br>
