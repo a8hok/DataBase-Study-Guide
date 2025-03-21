@@ -153,6 +153,7 @@ Table of Contents
   - [https://www.freecodecamp.org/news/database-optimization-principles/?ref=dailydev](https://www.freecodecamp.org/news/database-optimization-principles/?ref=dailydev)<br>
   - [https://www.kdnuggets.com/10-github-repositories-to-master-sql?ref=dailydev](https://www.kdnuggets.com/10-github-repositories-to-master-sql?ref=dailydev)<br>
   - [https://sqlpd.com/?ref=dailydev](https://sqlpd.com/?ref=dailydev)<br>
+  - [https://dev.to/yujin/sql-101-chapter-8-using-subqueries-for-improved-modularity-and-dynamic-calculations-26mn?context=digest](https://dev.to/yujin/sql-101-chapter-8-using-subqueries-for-improved-modularity-and-dynamic-calculations-26mn?context=digest)<br>
 
   ## Database trends
   - [https://www.kdnuggets.com/7-modern-sql-database-you-must-know-in-2024?ref=dailydev](https://www.kdnuggets.com/7-modern-sql-database-you-must-know-in-2024?ref=dailydev)<br>
