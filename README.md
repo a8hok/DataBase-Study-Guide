@@ -58,6 +58,7 @@ Table of Contents
   - [https://towardsdatascience.com/query-optimization-for-mere-humans-in-postgresql-875ab864390a](https://towardsdatascience.com/query-optimization-for-mere-humans-in-postgresql-875ab864390a)<br>
   - [https://speakdatascience.com/postgresql-best-practices/?ref=dailydev](https://speakdatascience.com/postgresql-best-practices/?ref=dailydev)<br>
   - [https://www.strongdm.com/blog/postgres-list-users?ref=dailydev](https://www.strongdm.com/blog/postgres-list-users?ref=dailydev)<br>
+  - [https://www.codemotion.com/magazine/backend/queueing-without-a-queue-the-postgresql-hack/?ref=dailydev](https://www.codemotion.com/magazine/backend/queueing-without-a-queue-the-postgresql-hack/?ref=dailydev)<br>
 
   ## Sql
   - [https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science](https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science)<br>
