@@ -156,6 +156,7 @@ Table of Contents
   - [https://sqlpd.com/?ref=dailydev](https://sqlpd.com/?ref=dailydev)<br>
   - [https://dev.to/yujin/sql-101-chapter-8-using-subqueries-for-improved-modularity-and-dynamic-calculations-26mn?context=digest](https://dev.to/yujin/sql-101-chapter-8-using-subqueries-for-improved-modularity-and-dynamic-calculations-26mn?context=digest)<br>
   - [https://en.wikibooks.org/wiki/Structured_Query_Language/SELECT:_Subquery](https://en.wikibooks.org/wiki/Structured_Query_Language/SELECT:_Subquery)<br>
+  - [https://sqlpd.com/?ref=dailydev](https://sqlpd.com/?ref=dailydev)<br>
 
   ## Database trends
   - [https://www.kdnuggets.com/7-modern-sql-database-you-must-know-in-2024?ref=dailydev](https://www.kdnuggets.com/7-modern-sql-database-you-must-know-in-2024?ref=dailydev)<br>
