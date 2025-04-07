@@ -172,6 +172,7 @@ Table of Contents
   - [https://www.kdnuggets.com/5-tips-for-improving-sql-query-performance?ref=dailydev](https://www.kdnuggets.com/5-tips-for-improving-sql-query-performance?ref=dailydev)<br>
   - [https://blog.devops.dev/understanding-sql-indexes-8b1f3783fc8a](https://blog.devops.dev/understanding-sql-indexes-8b1f3783fc8a)<br>
   - [https://medium.com/@hnasr/avoid-select-even-on-a-single-column-tables-d6deed7b4aee](https://medium.com/@hnasr/avoid-select-even-on-a-single-column-tables-d6deed7b4aee)<br>
+  - [https://blog.appsignal.com/2025/03/26/how-to-choose-between-sql-query-builders-and-orms-in-nodejs.html?ref=dailydev](https://blog.appsignal.com/2025/03/26/how-to-choose-between-sql-query-builders-and-orms-in-nodejs.html?ref=dailydev)<br>
 
   ## Database cheatsheet
   - [https://www.dbvis.com/thetable/sql-cheat-sheet-every-join-explained/?ref=dailydev](https://www.dbvis.com/thetable/sql-cheat-sheet-every-join-explained/?ref=dailydev)<br>
