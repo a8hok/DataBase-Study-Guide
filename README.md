@@ -105,6 +105,7 @@ Table of Contents
   - [https://www.freecodecamp.org/news/how-to-write-cleaner-code-using-mongoose-schemas/?ref=dailydev](https://www.freecodecamp.org/news/how-to-write-cleaner-code-using-mongoose-schemas/?ref=dailydev)<br>
   - [https://event-driven.io/en/mongodb_event_store/?ref=dailydev](https://event-driven.io/en/mongodb_event_store/?ref=dailydev)<br>
   - [https://medium.com/mongodb/storing-and-optimizing-enums-in-mongodb-b7b81c7bfd21](https://medium.com/mongodb/storing-and-optimizing-enums-in-mongodb-b7b81c7bfd21)<br>
+  - [https://www.permit.io/blog/implement-multi-tenancy-rbac-in-mongodb?ref=dailydev](https://www.permit.io/blog/implement-multi-tenancy-rbac-in-mongodb?ref=dailydev)<br>
 
   ## Youtube
   - [https://www.youtube.com/@GeekCoders](https://www.youtube.com/@GeekCoders)<br>
