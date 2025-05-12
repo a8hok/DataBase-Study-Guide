@@ -229,4 +229,7 @@ Table of Contents
   ## SQL Injections
   - [https://systemweakness.com/error-based-sql-injection-954035d20ec9](https://systemweakness.com/error-based-sql-injection-954035d20ec9)<br>
 
+  ## Performance
+  - [https://speakdatascience.com/postgresql-best-practices/?ref=dailydev](https://speakdatascience.com/postgresql-best-practices/?ref=dailydev)<br>
+
 
