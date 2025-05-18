@@ -61,6 +61,7 @@ Table of Contents
   - [https://www.strongdm.com/blog/postgres-list-users?ref=dailydev](https://www.strongdm.com/blog/postgres-list-users?ref=dailydev)<br>
   - [https://www.codemotion.com/magazine/backend/queueing-without-a-queue-the-postgresql-hack/?ref=dailydev](https://www.codemotion.com/magazine/backend/queueing-without-a-queue-the-postgresql-hack/?ref=dailydev)<br>
   - [https://levelup.gitconnected.com/why-knowing-toast-in-postgresql-is-necessary-for-backend-devs-340da420971a](https://levelup.gitconnected.com/why-knowing-toast-in-postgresql-is-necessary-for-backend-devs-340da420971a)<br>
+  - [https://supabase.com/blog/event-triggers-wo-superuser?ref=dailydev](https://supabase.com/blog/event-triggers-wo-superuser?ref=dailydev)<br>
 
   ## Sql
   - [https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science](https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science)<br>
