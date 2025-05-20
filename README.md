@@ -62,6 +62,7 @@ Table of Contents
   - [https://www.codemotion.com/magazine/backend/queueing-without-a-queue-the-postgresql-hack/?ref=dailydev](https://www.codemotion.com/magazine/backend/queueing-without-a-queue-the-postgresql-hack/?ref=dailydev)<br>
   - [https://levelup.gitconnected.com/why-knowing-toast-in-postgresql-is-necessary-for-backend-devs-340da420971a](https://levelup.gitconnected.com/why-knowing-toast-in-postgresql-is-necessary-for-backend-devs-340da420971a)<br>
   - [https://supabase.com/blog/event-triggers-wo-superuser?ref=dailydev](https://supabase.com/blog/event-triggers-wo-superuser?ref=dailydev)<br>
+  
 
   ## Sql
   - [https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science](https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science)<br>
@@ -220,6 +221,7 @@ Table of Contents
   - [https://newsletter.systemdesigncodex.com/p/database-sharding?ref=dailydev](https://newsletter.systemdesigncodex.com/p/database-sharding?ref=dailydev)<br>
   - [https://planetscale.com/blog/database-sharding?ref=dailydev](https://planetscale.com/blog/database-sharding?ref=dailydev)<br>
   - [https://www.youtube.com/watch?v=m4PvD8vm0D0](https://www.youtube.com/watch?v=m4PvD8vm0D0)<br>
+  - [https://www.systemdesignbutsimple.com/p/database-sharding-in-1-diagram-and-204-words?ref=dailydev](https://www.systemdesignbutsimple.com/p/database-sharding-in-1-diagram-and-204-words?ref=dailydev)<br>
 
   ## ORM
   - [https://www.freecodecamp.org/news/how-to-write-cleaner-code-using-mongoose-schemas/?ref=dailydev](https://www.freecodecamp.org/news/how-to-write-cleaner-code-using-mongoose-schemas/?ref=dailydev)<br>
