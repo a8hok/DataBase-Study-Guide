@@ -114,7 +114,7 @@ Table of Contents
   - [https://www.youtube.com/@GeekCoders](https://www.youtube.com/@GeekCoders)<br>
   - [https://www.youtube.com/playlist?list=PLxy0DxWEupiOU8M_GkSTYOMLB7Q9pAAZe](https://www.youtube.com/playlist?list=PLxy0DxWEupiOU8M_GkSTYOMLB7Q9pAAZe)<br>
   - [https://www.freecodecamp.org/news/learn-databases-in-depth/](https://www.freecodecamp.org/news/learn-databases-in-depth/)<br>
-  - []()<br>
+  - [https://howtocodeio.notion.site/4b862c83df504aa4866f08fab2108765?v=307d9b02351847aeacdb2f082b6ac86b](https://howtocodeio.notion.site/4b862c83df504aa4866f08fab2108765?v=307d9b02351847aeacdb2f082b6ac86b)<br>
 
   ## SQL vs NoSQL
   - [https://awstip.com/sql-nosql-whats-your-take-1be662f067ab](https://awstip.com/sql-nosql-whats-your-take-1be662f067ab)<br>
