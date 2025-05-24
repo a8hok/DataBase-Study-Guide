@@ -30,6 +30,7 @@ Table of Contents
   - [https://blog.stackademic.com/optimizing-mysql-queries-from-190-seconds-to-1-second-for-tens-of-millions-of-records-c9d61b7e75b9](https://blog.stackademic.com/optimizing-mysql-queries-from-190-seconds-to-1-second-for-tens-of-millions-of-records-c9d61b7e75b9)<br>
   - [https://www.youtube.com/watch?v=R7jBtnrUmYI](https://www.youtube.com/watch?v=R7jBtnrUmYI)<br>
   - [https://blog.bytebytego.com/p/how-youtube-supports-billions-of?ref=dailydev](https://blog.bytebytego.com/p/how-youtube-supports-billions-of?ref=dailydev)<br>
+  - [https://www.databasestar.com/sql-case-statement/?utm_source=cksequence&utm_medium=email](https://www.databasestar.com/sql-case-statement/?utm_source=cksequence&utm_medium=email)<br>
 
   ## Postgresql
   - [https://dbconvert.com/blog/mysql-vs-postgresql/](https://dbconvert.com/blog/mysql-vs-postgresql/)<br>
