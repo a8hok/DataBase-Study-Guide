@@ -236,5 +236,6 @@ Table of Contents
 
   ## Performance
   - [https://speakdatascience.com/postgresql-best-practices/?ref=dailydev](https://speakdatascience.com/postgresql-best-practices/?ref=dailydev)<br>
+  - [https://newsletter.scalablethread.com/p/how-to-improve-performance-of-your?ref=dailydev](https://newsletter.scalablethread.com/p/how-to-improve-performance-of-your?ref=dailydev)<br>
 
 
