@@ -217,6 +217,7 @@ Table of Contents
   - [https://www.youtube.com/watch?v=F27loUSoIno](https://www.youtube.com/watch?v=F27loUSoIno)<br>
   - [https://blog.logrocket.com/migrating-valkey-redis/?ref=dailydev](https://blog.logrocket.com/migrating-valkey-redis/?ref=dailydev)<br>
   - [https://towardsdev.com/introduction-to-redis-part-1-c32268a4c26d](https://towardsdev.com/introduction-to-redis-part-1-c32268a4c26d)<br>
+  - [https://towardsdev.com/blazing-fast-leaderboards-using-redis-2e539f499f1d](https://towardsdev.com/blazing-fast-leaderboards-using-redis-2e539f499f1d)<br>
 
   ## Database Indexes
   - [https://computersciencesimplified.substack.com/p/database-indexing-explained?ref=dailydev&triedRedirect=true](https://computersciencesimplified.substack.com/p/database-indexing-explained?ref=dailydev&triedRedirect=true)
