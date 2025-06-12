@@ -110,6 +110,7 @@ Table of Contents
   - [https://medium.com/mongodb/storing-and-optimizing-enums-in-mongodb-b7b81c7bfd21](https://medium.com/mongodb/storing-and-optimizing-enums-in-mongodb-b7b81c7bfd21)<br>
   - [https://www.permit.io/blog/implement-multi-tenancy-rbac-in-mongodb?ref=dailydev](https://www.permit.io/blog/implement-multi-tenancy-rbac-in-mongodb?ref=dailydev)<br>
   - [https://foojay.io/today/building-a-real-time-ai-fraud-detection-system-with-spring-kafka-and-mongodb/?ref=dailydev](https://foojay.io/today/building-a-real-time-ai-fraud-detection-system-with-spring-kafka-and-mongodb/?ref=dailydev)<br>
+  - [https://www.credly.com/badges/fcdc2475-376a-43e1-8bea-bff52d318766/linked_in?t=sxpzhf](https://www.credly.com/badges/fcdc2475-376a-43e1-8bea-bff52d318766/linked_in?t=sxpzhf)<br>
 
   ## Youtube
   - [https://www.youtube.com/@GeekCoders](https://www.youtube.com/@GeekCoders)<br>
