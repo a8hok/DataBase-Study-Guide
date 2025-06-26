@@ -63,6 +63,7 @@ Table of Contents
   - [https://www.codemotion.com/magazine/backend/queueing-without-a-queue-the-postgresql-hack/?ref=dailydev](https://www.codemotion.com/magazine/backend/queueing-without-a-queue-the-postgresql-hack/?ref=dailydev)<br>
   - [https://levelup.gitconnected.com/why-knowing-toast-in-postgresql-is-necessary-for-backend-devs-340da420971a](https://levelup.gitconnected.com/why-knowing-toast-in-postgresql-is-necessary-for-backend-devs-340da420971a)<br>
   - [https://supabase.com/blog/event-triggers-wo-superuser?ref=dailydev](https://supabase.com/blog/event-triggers-wo-superuser?ref=dailydev)<br>
+  - [https://dev.to/mayallo/sql-coalesce-in-postgres-a-simple-guide-48nl?context=digest](https://dev.to/mayallo/sql-coalesce-in-postgres-a-simple-guide-48nl?context=digest)<br>
   
 
   ## Sql
