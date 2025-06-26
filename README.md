@@ -245,4 +245,7 @@ Table of Contents
   - [https://speakdatascience.com/postgresql-best-practices/?ref=dailydev](https://speakdatascience.com/postgresql-best-practices/?ref=dailydev)<br>
   - [https://newsletter.scalablethread.com/p/how-to-improve-performance-of-your?ref=dailydev](https://newsletter.scalablethread.com/p/how-to-improve-performance-of-your?ref=dailydev)<br>
 
+  ## Database architecture
+  - [https://dev.to/zeedu_dev/multi-tenant-architecture-in-software-what-is-it-and-its-databases-patterns-2p28?context=digest](https://dev.to/zeedu_dev/multi-tenant-architecture-in-software-what-is-it-and-its-databases-patterns-2p28?context=digest)<br>
+
 
