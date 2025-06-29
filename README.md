@@ -64,7 +64,7 @@ Table of Contents
   - [https://levelup.gitconnected.com/why-knowing-toast-in-postgresql-is-necessary-for-backend-devs-340da420971a](https://levelup.gitconnected.com/why-knowing-toast-in-postgresql-is-necessary-for-backend-devs-340da420971a)<br>
   - [https://supabase.com/blog/event-triggers-wo-superuser?ref=dailydev](https://supabase.com/blog/event-triggers-wo-superuser?ref=dailydev)<br>
   - [https://dev.to/mayallo/sql-coalesce-in-postgres-a-simple-guide-48nl?context=digest](https://dev.to/mayallo/sql-coalesce-in-postgres-a-simple-guide-48nl?context=digest)<br>
-  
+  - [https://pgdog.dev/?ref=dailydev](https://pgdog.dev/?ref=dailydev)<br>
 
   ## Sql
   - [https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science](https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science)<br>
