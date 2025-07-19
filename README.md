@@ -65,6 +65,7 @@ Table of Contents
   - [https://supabase.com/blog/event-triggers-wo-superuser?ref=dailydev](https://supabase.com/blog/event-triggers-wo-superuser?ref=dailydev)<br>
   - [https://dev.to/mayallo/sql-coalesce-in-postgres-a-simple-guide-48nl?context=digest](https://dev.to/mayallo/sql-coalesce-in-postgres-a-simple-guide-48nl?context=digest)<br>
   - [https://pgdog.dev/?ref=dailydev](https://pgdog.dev/?ref=dailydev)<br>
+  - [https://www.strongdm.com/blog/postgresql-vs-mysql?ref=dailydev](https://www.strongdm.com/blog/postgresql-vs-mysql?ref=dailydev)<br>
 
   ## Sql
   - [https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science](https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science)<br>
