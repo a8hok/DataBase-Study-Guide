@@ -251,4 +251,7 @@ Table of Contents
   ## Database architecture
   - [https://dev.to/zeedu_dev/multi-tenant-architecture-in-software-what-is-it-and-its-databases-patterns-2p28?context=digest](https://dev.to/zeedu_dev/multi-tenant-architecture-in-software-what-is-it-and-its-databases-patterns-2p28?context=digest)<br>
 
+  ## MySQL vs PSQL
+  - [https://www.strongdm.com/blog/postgresql-vs-mysql?ref=dailydev](https://www.strongdm.com/blog/postgresql-vs-mysql?ref=dailydev)<br>
+
 
