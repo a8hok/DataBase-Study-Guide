@@ -66,6 +66,7 @@ Table of Contents
   - [https://dev.to/mayallo/sql-coalesce-in-postgres-a-simple-guide-48nl?context=digest](https://dev.to/mayallo/sql-coalesce-in-postgres-a-simple-guide-48nl?context=digest)<br>
   - [https://pgdog.dev/?ref=dailydev](https://pgdog.dev/?ref=dailydev)<br>
   - [https://www.strongdm.com/blog/postgresql-vs-mysql?ref=dailydev](https://www.strongdm.com/blog/postgresql-vs-mysql?ref=dailydev)<br>
+  - [https://www.freecodecamp.org/news/how-to-design-structured-database-systems-using-sql-full-book/?ref=dailydev](https://www.freecodecamp.org/news/how-to-design-structured-database-systems-using-sql-full-book/?ref=dailydev)<br>
 
   ## Sql
   - [https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science](https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science)<br>
