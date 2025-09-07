@@ -100,6 +100,7 @@ Table of Contents
   - [https://github.com/isandeepMakwana/SQL?tab=readme-ov-file](https://github.com/isandeepMakwana/SQL?tab=readme-ov-file)<br>
   - [https://www.freecodecamp.org/news/learn-relational-database-basics-key-concepts-for-beginners/?ref=dailydev](https://www.freecodecamp.org/news/learn-relational-database-basics-key-concepts-for-beginners/?ref=dailydev)<br>
   - [https://www.timescale.com/blog/how-to-quickly-build-dashboards-with-time-series-data?ref=dailydev](https://www.timescale.com/blog/how-to-quickly-build-dashboards-with-time-series-data?ref=dailydev)<br>
+  - [https://www.firebird-technologies.com/p/master-sql-with-ai?ref=dailydev](https://www.firebird-technologies.com/p/master-sql-with-ai?ref=dailydev)<br>
 
   ## MongoDB
   - [https://learnxinyminutes.com/docs/mongodb/](https://learnxinyminutes.com/docs/mongodb/)<br>
