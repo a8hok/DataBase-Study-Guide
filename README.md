@@ -68,6 +68,7 @@ Table of Contents
   - [https://www.strongdm.com/blog/postgresql-vs-mysql?ref=dailydev](https://www.strongdm.com/blog/postgresql-vs-mysql?ref=dailydev)<br>
   - [https://www.freecodecamp.org/news/how-to-design-structured-database-systems-using-sql-full-book/?ref=dailydev](https://www.freecodecamp.org/news/how-to-design-structured-database-systems-using-sql-full-book/?ref=dailydev)<br>
   - [https://www.crunchydata.com/blog/indexing-jsonb-in-postgres?ref=dailydev](https://www.crunchydata.com/blog/indexing-jsonb-in-postgres?ref=dailydev)<br>
+  - [https://byteofdev.com/posts/making-postgres-slow/?ref=dailydev](https://byteofdev.com/posts/making-postgres-slow/?ref=dailydev)<br>
 
   ## Sql
   - [https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science](https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science)<br>
