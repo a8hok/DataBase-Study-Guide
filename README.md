@@ -252,6 +252,7 @@ Table of Contents
   ## Performance
   - [https://speakdatascience.com/postgresql-best-practices/?ref=dailydev](https://speakdatascience.com/postgresql-best-practices/?ref=dailydev)<br>
   - [https://newsletter.scalablethread.com/p/how-to-improve-performance-of-your?ref=dailydev](https://newsletter.scalablethread.com/p/how-to-improve-performance-of-your?ref=dailydev)<br>
+  - [https://medium.com/@himanshusingour7/how-we-migrated-db-1-to-db-2-1-billion-records-without-downtime-c034ce85d889](https://medium.com/@himanshusingour7/how-we-migrated-db-1-to-db-2-1-billion-records-without-downtime-c034ce85d889)<br>
 
   ## Database architecture
   - [https://dev.to/zeedu_dev/multi-tenant-architecture-in-software-what-is-it-and-its-databases-patterns-2p28?context=digest](https://dev.to/zeedu_dev/multi-tenant-architecture-in-software-what-is-it-and-its-databases-patterns-2p28?context=digest)<br>
