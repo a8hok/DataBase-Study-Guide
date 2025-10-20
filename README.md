@@ -230,6 +230,7 @@ Table of Contents
   - [https://towardsdev.com/introduction-to-redis-part-1-c32268a4c26d](https://towardsdev.com/introduction-to-redis-part-1-c32268a4c26d)<br>
   - [https://towardsdev.com/blazing-fast-leaderboards-using-redis-2e539f499f1d](https://towardsdev.com/blazing-fast-leaderboards-using-redis-2e539f499f1d)<br>
   - [https://www.freecodecamp.org/news/how-in-memory-caching-works-in-redis/?ref=dailydev](https://www.freecodecamp.org/news/how-in-memory-caching-works-in-redis/?ref=dailydev)<br>
+  - [https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/?ref=dailydev](https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/?ref=dailydev)<br>
 
   ## Database Indexes
   - [https://computersciencesimplified.substack.com/p/database-indexing-explained?ref=dailydev&triedRedirect=true](https://computersciencesimplified.substack.com/p/database-indexing-explained?ref=dailydev&triedRedirect=true)
