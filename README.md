@@ -211,6 +211,7 @@ Table of Contents
   - [https://nordicapis.com/how-modern-banking-is-using-graphql/?ref=dailydev](https://nordicapis.com/how-modern-banking-is-using-graphql/?ref=dailydev)<br>
   - [https://dev.to/asafaeirad/the-myth-of-graphql-20fl](https://dev.to/asafaeirad/the-myth-of-graphql-20fl)<br>
   - [https://dev.to/jordanfinners/shopify-getting-to-grips-with-graphql-fpp?context=digest](https://dev.to/jordanfinners/shopify-getting-to-grips-with-graphql-fpp?context=digest)<br>
+  - [https://marmelab.com/blog/2025/10/29/from-graphql-to-zod.html?ref=dailydev](https://marmelab.com/blog/2025/10/29/from-graphql-to-zod.html?ref=dailydev)<br>
 
   ## Other DB
   - [https://duckdb.org/2024/08/19/duckdb-tricks-part-1.html?ref=dailydev](https://duckdb.org/2024/08/19/duckdb-tricks-part-1.html?ref=dailydev)<br>
