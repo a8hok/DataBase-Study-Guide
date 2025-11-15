@@ -235,7 +235,8 @@ Table of Contents
   - [https://mrinalxdev.github.io/mrinalxblogs/blogs/redis.html?ref=dailydev](https://mrinalxdev.github.io/mrinalxblogs/blogs/redis.html?ref=dailydev)<br>
 
   ## Database Indexes
-  - [https://computersciencesimplified.substack.com/p/database-indexing-explained?ref=dailydev&triedRedirect=true](https://computersciencesimplified.substack.com/p/database-indexing-explained?ref=dailydev&triedRedirect=true)
+  - [https://computersciencesimplified.substack.com/p/database-indexing-explained?ref=dailydev&triedRedirect=true](https://computersciencesimplified.substack.com/p/database-indexing-explained?ref=dailydev&triedRedirect=true)<br/>
+ - [https://medium.com/@akashsdas_dev/database-indexing-e10362624ed3](https://medium.com/@akashsdas_dev/database-indexing-e10362624ed3)<br>
  
   ## Database Sharding
   - [https://newsletter.systemdesigncodex.com/p/database-sharding?ref=dailydev](https://newsletter.systemdesigncodex.com/p/database-sharding?ref=dailydev)<br>
