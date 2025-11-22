@@ -104,6 +104,7 @@ Table of Contents
   - [https://www.freecodecamp.org/news/learn-relational-database-basics-key-concepts-for-beginners/?ref=dailydev](https://www.freecodecamp.org/news/learn-relational-database-basics-key-concepts-for-beginners/?ref=dailydev)<br>
   - [https://www.timescale.com/blog/how-to-quickly-build-dashboards-with-time-series-data?ref=dailydev](https://www.timescale.com/blog/how-to-quickly-build-dashboards-with-time-series-data?ref=dailydev)<br>
   - [https://www.firebird-technologies.com/p/master-sql-with-ai?ref=dailydev](https://www.firebird-technologies.com/p/master-sql-with-ai?ref=dailydev)<br>
+  - [https://dev.to/lastlink/hacktoberfest-2025-advancing-sql-tooling-in-drawio-35bi?ref=dailydev](https://dev.to/lastlink/hacktoberfest-2025-advancing-sql-tooling-in-drawio-35bi?ref=dailydev)<br>
 
   ## MongoDB
   - [https://learnxinyminutes.com/docs/mongodb/](https://learnxinyminutes.com/docs/mongodb/)<br>
