@@ -251,6 +251,7 @@ Table of Contents
   - [https://dev.to/awalias/prisma-postgres-4o09?ref=dailydev](https://dev.to/awalias/prisma-postgres-4o09?ref=dailydev)<br>
   - [https://medium.com/@armaancodes/schema-methods-in-mongodb-mongoose-efd6e6bb9cc8](https://medium.com/@armaancodes/schema-methods-in-mongodb-mongoose-efd6e6bb9cc8)<br>
   - [https://dev.to/thomasbnt/how-to-use-prisma-postgres-5519?context=digest](https://dev.to/thomasbnt/how-to-use-prisma-postgres-5519?context=digest)<br>
+  - [https://www.prisma.io/blog/announcing-prisma-orm-7-0-0?ref=dailydev](https://www.prisma.io/blog/announcing-prisma-orm-7-0-0?ref=dailydev)<br>
 
   ## SQL Injections
   - [https://systemweakness.com/error-based-sql-injection-954035d20ec9](https://systemweakness.com/error-based-sql-injection-954035d20ec9)<br>
