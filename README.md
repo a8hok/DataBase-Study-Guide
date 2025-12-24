@@ -267,4 +267,7 @@ Table of Contents
   ## MySQL vs PSQL
   - [https://www.strongdm.com/blog/postgresql-vs-mysql?ref=dailydev](https://www.strongdm.com/blog/postgresql-vs-mysql?ref=dailydev)<br>
 
+  ## Certification
+  - [https://www.freecodecamp.org/news/freecodecamps-new-relational-databases-certification-is-now-live/?ref=dailydev](https://www.freecodecamp.org/news/freecodecamps-new-relational-databases-certification-is-now-live/?ref=dailydev)<br>
+
 
