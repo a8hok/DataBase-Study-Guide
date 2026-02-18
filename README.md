@@ -248,6 +248,7 @@ Table of Contents
   - [https://planetscale.com/blog/database-sharding?ref=dailydev](https://planetscale.com/blog/database-sharding?ref=dailydev)<br>
   - [https://www.youtube.com/watch?v=m4PvD8vm0D0](https://www.youtube.com/watch?v=m4PvD8vm0D0)<br>
   - [https://www.systemdesignbutsimple.com/p/database-sharding-in-1-diagram-and-204-words?ref=dailydev](https://www.systemdesignbutsimple.com/p/database-sharding-in-1-diagram-and-204-words?ref=dailydev)<br>
+  - [https://blog.algomaster.io/p/what-is-database-sharding](https://blog.algomaster.io/p/what-is-database-sharding)<br>
 
   ## ORM
   - [https://www.freecodecamp.org/news/how-to-write-cleaner-code-using-mongoose-schemas/?ref=dailydev](https://www.freecodecamp.org/news/how-to-write-cleaner-code-using-mongoose-schemas/?ref=dailydev)<br>
