@@ -140,6 +140,7 @@ Table of Contents
   - [https://www.singlestore.com/blog/to-sql-or-nosql/](https://www.singlestore.com/blog/to-sql-or-nosql/)<br>
   - [https://blog.bytebytego.com/p/sql-vs-nosql-choosing-the-right-database?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F074eba32-d415-4ed1-a60e-d193918f0df2_2250x2624.png&open=false](https://blog.bytebytego.com/p/sql-vs-nosql-choosing-the-right-database?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F074eba32-d415-4ed1-a60e-d193918f0df2_2250x2624.png&open=false)<br>
   - [https://hevalhazalkurt.com/blog/when-to-choose-nosql-over-sql/?ref=dailydev](https://hevalhazalkurt.com/blog/when-to-choose-nosql-over-sql/?ref=dailydev)<br>
+  - [https://blog.algomaster.io/p/sql-vs-nosql-7-key-differences](https://blog.algomaster.io/p/sql-vs-nosql-7-key-differences)<br>
   
 
   ## SQL tips and tricks
