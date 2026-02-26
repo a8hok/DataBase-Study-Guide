@@ -74,6 +74,7 @@ Table of Contents
   - [https://opensource-db.com/optimizing-postgresql-delete-operations-a-deep-dive-into-performance-troubleshooting/?ref=dailydev](https://opensource-db.com/optimizing-postgresql-delete-operations-a-deep-dive-into-performance-troubleshooting/?ref=dailydev)<br>
   - [https://www.tigerdata.com/blog/its-2026-just-use-postgres?ref=dailydev](https://www.tigerdata.com/blog/its-2026-just-use-postgres?ref=dailydev)<br>
   - [https://blog.bytebytego.com/p/how-openai-scaled-to-800-million?ref=dailydev](https://blog.bytebytego.com/p/how-openai-scaled-to-800-million?ref=dailydev)<br>
+  - [https://marmelab.com/blog/2026/02/23/do-you-know-psql.html?ref=dailydev](https://marmelab.com/blog/2026/02/23/do-you-know-psql.html?ref=dailydev)<br>
 
   ## Sql
   - [https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science](https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science)<br>
