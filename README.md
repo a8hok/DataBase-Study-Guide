@@ -76,6 +76,7 @@ Table of Contents
   - [https://blog.bytebytego.com/p/how-openai-scaled-to-800-million?ref=dailydev](https://blog.bytebytego.com/p/how-openai-scaled-to-800-million?ref=dailydev)<br>
   - [https://marmelab.com/blog/2026/02/23/do-you-know-psql.html?ref=dailydev](https://marmelab.com/blog/2026/02/23/do-you-know-psql.html?ref=dailydev)<br>
   - [https://www.depesz.com/2026/03/19/waiting-for-postgresql-19-introduce-the-repack-command/?ref=dailydev](https://www.depesz.com/2026/03/19/waiting-for-postgresql-19-introduce-the-repack-command/?ref=dailydev)<br>
+  - [https://www.freecodecamp.org/news/how-to-use-postgresql-as-a-cache-queue-and-search-engine/?ref=dailydev](https://www.freecodecamp.org/news/how-to-use-postgresql-as-a-cache-queue-and-search-engine/?ref=dailydev)<br>
 
   ## Sql
   - [https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science](https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science)<br>
