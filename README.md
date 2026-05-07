@@ -179,6 +179,7 @@ Table of Contents
   - [https://www.freecodecamp.org/news/acid-databases-explained/?ref=dailydev](https://www.freecodecamp.org/news/acid-databases-explained/?ref=dailydev)<br>
   - [https://www.freecodecamp.org/news/create-database-documentation-using-dbdocs-with-dbml/](https://www.freecodecamp.org/news/create-database-documentation-using-dbdocs-with-dbml/)<br>
   - [https://www.freecodecamp.org/news/master-database-management-systems/?ref=dailydev](https://www.freecodecamp.org/news/master-database-management-systems/?ref=dailydev)<br>
+  - [https://www.freecodecamp.org/news/learn-relational-database-design-1/](https://www.freecodecamp.org/news/learn-relational-database-design-1/)<br>
 
   ## SQL practice
   - [https://www.marktechpost.com/2023/12/07/best-platforms-to-practice-sql/?ref=dailydev](https://www.marktechpost.com/2023/12/07/best-platforms-to-practice-sql/?ref=dailydev)<br>
