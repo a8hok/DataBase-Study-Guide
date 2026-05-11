@@ -231,6 +231,7 @@ Table of Contents
   - [https://blog.dailydoseofds.com/p/semi-anti-and-natural-joins-in-duckdb?ref=dailydev](https://blog.dailydoseofds.com/p/semi-anti-and-natural-joins-in-duckdb?ref=dailydev)<br>
   - [https://blog.appsignal.com/2024/09/18/dynamodb-single-table-design-with-typescript.html?ref=dailydev](https://blog.appsignal.com/2024/09/18/dynamodb-single-table-design-with-typescript.html?ref=dailydev)<br>
   - [https://dev.to/chartdb/chartdb-from-zero-to-15k-github-stars-in-3-days-heres-how-50ja](https://dev.to/chartdb/chartdb-from-zero-to-15k-github-stars-in-3-days-heres-how-50ja)<br>
+  - [https://github.com/Nozbe/WatermelonDB?ref=dailydev](https://github.com/Nozbe/WatermelonDB?ref=dailydev)<br>
 
   ## Datatypes
   - [https://blog.bytebytego.com/p/understanding-database-types?ref=dailydev](https://blog.bytebytego.com/p/understanding-database-types?ref=dailydev)<br>
