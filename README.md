@@ -79,6 +79,7 @@ Table of Contents
   - [https://www.freecodecamp.org/news/how-to-use-postgresql-as-a-cache-queue-and-search-engine/?ref=dailydev](https://www.freecodecamp.org/news/how-to-use-postgresql-as-a-cache-queue-and-search-engine/?ref=dailydev)<br>
   - [https://blog.elmah.io/12-practices-for-optimizing-postgresql-queries-for-large-datasets/?ref=dailydev](https://blog.elmah.io/12-practices-for-optimizing-postgresql-queries-for-large-datasets/?ref=dailydev)<br>
   - [https://blog.elmah.io/12-practices-for-optimizing-postgresql-queries-for-large-datasets/?ref=dailydev](https://blog.elmah.io/12-practices-for-optimizing-postgresql-queries-for-large-datasets/?ref=dailydev)<br>
+  - [https://neon.com/postgresql/postgresql-19/monitoring-operations?ref=dailydev](https://neon.com/postgresql/postgresql-19/monitoring-operations?ref=dailydev)<br>
 
   ## Sql
   - [https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science](https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science)<br>
