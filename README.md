@@ -165,6 +165,7 @@ Table of Contents
   - [https://neon.tech/blog/test-your-database-without-mocks?ref=dailydev](https://neon.tech/blog/test-your-database-without-mocks?ref=dailydev)<br>
   - [https://dev.to/lovestaco/speed-up-db-queries-like-a-pro-2d95?ref=dailydev](https://dev.to/lovestaco/speed-up-db-queries-like-a-pro-2d95?ref=dailydev)<br>
   - [https://dev.to/dhanush___b/how-to-choose-the-right-db-for-your-application--c7h?ref=dailydev](https://dev.to/dhanush___b/how-to-choose-the-right-db-for-your-application--c7h?ref=dailydev)<br>
+  - [https://sql-master-ai-liard.vercel.app/learn](https://sql-master-ai-liard.vercel.app/learn)<br>
   
 
   ## Database inteview questions
