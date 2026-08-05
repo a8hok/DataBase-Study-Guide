@@ -293,4 +293,8 @@ Table of Contents
   ## Certification
   - [https://www.freecodecamp.org/news/freecodecamps-new-relational-databases-certification-is-now-live/?ref=dailydev](https://www.freecodecamp.org/news/freecodecamps-new-relational-databases-certification-is-now-live/?ref=dailydev)<br>
 
+  ## SQL with AI
+  - [https://github.com/ALISHA-19/sql-master-ai](https://github.com/ALISHA-19/sql-master-ai)<br>
+  
+
 
