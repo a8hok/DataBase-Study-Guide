@@ -295,6 +295,9 @@ Table of Contents
 
   ## SQL with AI
   - [https://github.com/ALISHA-19/sql-master-ai](https://github.com/ALISHA-19/sql-master-ai)<br>
+
+  ## Database design system
+  - [https://www.freecodecamp.org/news/an-introduction-to-database-system-design/](https://www.freecodecamp.org/news/an-introduction-to-database-system-design/)<br>
   
 
 
