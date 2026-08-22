@@ -298,6 +298,7 @@ Table of Contents
 
   ## Database design system
   - [https://www.freecodecamp.org/news/an-introduction-to-database-system-design/](https://www.freecodecamp.org/news/an-introduction-to-database-system-design/)<br>
+  - [https://medium.com/@chikuv2205/sql-ctes-common-table-expressions-explained-with-real-examples-sql-interview-series-5-414af47e6e8e](https://medium.com/@chikuv2205/sql-ctes-common-table-expressions-explained-with-real-examples-sql-interview-series-5-414af47e6e8e)<br>
   
 
 
