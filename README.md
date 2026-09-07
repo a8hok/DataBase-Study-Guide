@@ -257,7 +257,7 @@ Table of Contents
   - [https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942?ref=dailydev](https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942?ref=dailydev)<br>
 
   ## Database Indexes
-  - [https://computersciencesimplified.substack.com/p/database-indexing-explained?ref=dailydev&triedRedirect=true](https://computersciencesimplified.substack.com/p/database-indexing-explained?ref=dailydev&triedRedirect=true)<br/>
+- [https://computersciencesimplified.substack.com/p/database-indexing-explained?ref=dailydev&triedRedirect=true](https://computersciencesimplified.substack.com/p/database-indexing-explained?ref=dailydev&triedRedirect=true)<br/>
  - [https://medium.com/@akashsdas_dev/database-indexing-e10362624ed3](https://medium.com/@akashsdas_dev/database-indexing-e10362624ed3)<br>
  
   ## Database Sharding
@@ -301,4 +301,5 @@ Table of Contents
   - [https://medium.com/@chikuv2205/sql-ctes-common-table-expressions-explained-with-real-examples-sql-interview-series-5-414af47e6e8e](https://medium.com/@chikuv2205/sql-ctes-common-table-expressions-explained-with-real-examples-sql-interview-series-5-414af47e6e8e)<br>
   
 
-
+## SQL youtube
+- [https://www.youtube.com/watch?v=LHgUes2genI](https://www.youtube.com/watch?v=LHgUes2genI)<br>
