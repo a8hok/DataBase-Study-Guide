@@ -42,7 +42,6 @@ Table of Contents
   - [https://codeopinion.com/using-your-database-as-a-queue/](https://codeopinion.com/using-your-database-as-a-queue/)<br>
   - [https://www.digitalocean.com/blog/introducing-digitalocean-scalable-storage?ref=dailydev](https://www.digitalocean.com/blog/introducing-digitalocean-scalable-storage?ref=dailydev)<br>
   - [https://www.freecodecamp.org/news/posgresql-course-for-beginners/?ref=dailydev](https://www.freecodecamp.org/news/posgresql-course-for-beginners/?ref=dailydev)<br>
-  - [https://www.freecodecamp.org/news/posgresql-course-for-beginners/](https://www.freecodecamp.org/news/posgresql-course-for-beginners/)<br>
   - [https://neon.tech/blog/fan-out-postgres-changes-using-debezium-and-upstash-redis?ref=dailydev](https://neon.tech/blog/fan-out-postgres-changes-using-debezium-and-upstash-redis?ref=dailydev)<br>
   - [https://anyblockers.com/posts/postgres-as-a-search-engine?ref=dailydev](https://anyblockers.com/posts/postgres-as-a-search-engine?ref=dailydev)<br>
   - [https://vinioyama.com/blog/practical-guide-for-database-scaling-how-to-use-postgres-logical-replication/?ref=dailydev](https://vinioyama.com/blog/practical-guide-for-database-scaling-how-to-use-postgres-logical-replication/?ref=dailydev)<br>
