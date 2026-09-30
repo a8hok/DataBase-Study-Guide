@@ -82,6 +82,7 @@ Table of Contents
   - [https://github.com/rogerwelin/pg_column_tetris?ref=dailydev](https://github.com/rogerwelin/pg_column_tetris?ref=dailydev)<br>
   - [https://www.youtube.com/watch?v=gySEbKmkvEU](https://www.youtube.com/watch?v=gySEbKmkvEU)<br>
   - [https://www.youtube.com/watch?v=dJ_MeKWdeVQ&ref=dailydev](https://www.youtube.com/watch?v=dJ_MeKWdeVQ&ref=dailydev)<br>
+  - [https://www.freecodecamp.org/news/timescaledb-course-postgresql-for-time-series-data/](https://www.freecodecamp.org/news/timescaledb-course-postgresql-for-time-series-data/)<br>
 
   ## Sql
   - [https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science](https://www.kdnuggets.com/2022/11/7-sql-concepts-needed-data-science.html?utm_source=rss&utm_medium=rss&utm_campaign=7-sql-concepts-you-should-know-for-data-science)<br>
