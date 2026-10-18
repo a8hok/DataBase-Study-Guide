@@ -256,6 +256,7 @@ Table of Contents
   - [https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/?ref=dailydev](https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/?ref=dailydev)<br>
   - [https://mrinalxdev.github.io/mrinalxblogs/blogs/redis.html?ref=dailydev](https://mrinalxdev.github.io/mrinalxblogs/blogs/redis.html?ref=dailydev)<br>
   - [https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942?ref=dailydev](https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942?ref=dailydev)<br>
+  - [https://www.freecodecamp.org/news/how-in-memory-caching-works-in-redis/](https://www.freecodecamp.org/news/how-in-memory-caching-works-in-redis/)<br>
 
   ## Database Indexes
 - [https://computersciencesimplified.substack.com/p/database-indexing-explained?ref=dailydev&triedRedirect=true](https://computersciencesimplified.substack.com/p/database-indexing-explained?ref=dailydev&triedRedirect=true)<br/>
