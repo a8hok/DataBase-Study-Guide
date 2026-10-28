@@ -197,6 +197,7 @@ Table of Contents
   - [https://sqlpd.com/?ref=dailydev](https://sqlpd.com/?ref=dailydev)<br>
   - [https://datalemur.com/sql-game?ref=dailydev](https://datalemur.com/sql-game?ref=dailydev)<br>
   - [https://datalemur.com/blog/games-to-learn-sql?ref=dailydev](https://datalemur.com/blog/games-to-learn-sql?ref=dailydev)<br>
+  - [https://www.freecodecamp.org/news/improve-your-data-science-skills-by-solving-kaggle-challenges/](https://www.freecodecamp.org/news/improve-your-data-science-skills-by-solving-kaggle-challenges/)<br>
 
   ## Database trends
   - [https://www.kdnuggets.com/7-modern-sql-database-you-must-know-in-2024?ref=dailydev](https://www.kdnuggets.com/7-modern-sql-database-you-must-know-in-2024?ref=dailydev)<br>
